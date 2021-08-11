@@ -5,14 +5,24 @@ repo: status # The name of this repository
 sites:
   - name: Happy Vibes Bot 1
     url: $BOT1
+    expectedStatusCodes:
+      - 200
   - name: Happy Vibes Bot 2
     url: $BOT2
+    expectedStatusCodes:
+      - 200
   - name: Happy Vibes Bot 3
     url: $BOT3
+    expectedStatusCodes:
+      - 200
   - name: Happy Vibes Bot 4
     url: $BOT4
+    expectedStatusCodes:
+      - 200
   - name: Happy Vibes Bot 5
     url: $BOT5
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
