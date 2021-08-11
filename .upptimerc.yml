@@ -18,7 +18,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/88794125?s=88&v=4
   name: Happy Vibes Bot Status
   introTitle: "**Welcome!**"
   introMessage: Here, you may see the status of the Discord Happy Vibes Bot.
