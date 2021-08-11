@@ -32,8 +32,6 @@ status-website:
   name: Happy Vibes Bot Status
   introTitle: "**Welcome!**"
   introMessage: Here, you may see the status of the Discord Happy Vibes Bot.
-    - title: Home
-      href: https://sites.google.com/view/happy-vibes-discord-bot/home
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
