@@ -4,9 +4,9 @@
     "url": "$BOT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.66%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "98.84%",
@@ -16,6 +16,7 @@
     "timeMonth": 740,
     "timeYear": 1676,
     "dailyMinutesDown": {
+      "2022-02-05": 0,
       "2022-02-03": 17,
       "2022-02-02": 62,
       "2022-02-01": 55,
@@ -69,7 +70,7 @@
       "2021-09-11": 6,
       "2021-09-10": 6,
       "2021-09-09": 64,
-      "2021-09-08": 368
+      "2021-09-08": 361
     }
   },
   {
@@ -299,9 +300,9 @@
     "slug": "happy-vibes-bot-5",
     "status": "up",
     "uptime": "98.65%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "98.65%",
     "time": 1280,
     "timeDay": 390,
@@ -309,7 +310,6 @@
     "timeMonth": 1169,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2022-02-05": 14,
       "2022-02-01": 55,
       "2022-01-16": 23,
       "2022-01-07": 58,
@@ -371,7 +371,8 @@
       "2021-08-19": 29,
       "2021-08-18": 40,
       "2021-08-17": 42,
-      "2021-08-16": 21
+      "2021-08-16": 21,
+      "2021-08-14": 23
     }
   }
 ]
