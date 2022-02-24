@@ -4,18 +4,19 @@
     "url": "$BOT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "99.00%",
     "time": 1574,
     "timeDay": 440,
     "timeWeek": 329,
     "timeMonth": 623,
     "timeYear": 1574,
     "dailyMinutesDown": {
+      "2022-02-24": 0,
       "2022-02-10": 17,
       "2022-02-03": 17,
       "2022-02-02": 62,
@@ -70,7 +71,7 @@
       "2021-09-11": 6,
       "2021-09-10": 6,
       "2021-09-09": 64,
-      "2021-09-08": 361
+      "2021-09-08": 208
     }
   },
   {
@@ -223,12 +224,12 @@
     "url": "$BOT4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "96.44%",
+    "status": "down",
+    "uptime": "98.77%",
+    "uptimeDay": "96.41%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.77%",
     "time": 1116,
     "timeDay": 387,
     "timeWeek": 363,
@@ -293,7 +294,7 @@
       "2021-08-24": 45,
       "2021-08-23": 38,
       "2021-08-22": 183,
-      "2021-08-21": 64
+      "2021-08-21": 9
     }
   },
   {
@@ -301,11 +302,11 @@
     "url": "$BOT5",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "98.79%",
     "time": 1282,
     "timeDay": 511,
@@ -313,7 +314,7 @@
     "timeMonth": 1369,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2022-02-24": 14,
+      "2022-02-24": 0,
       "2022-02-10": 18,
       "2022-02-01": 55,
       "2022-01-16": 23,
