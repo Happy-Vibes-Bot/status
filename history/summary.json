@@ -4,9 +4,9 @@
     "url": "$BOT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "84.34%",
+    "uptimeDay": "84.33%",
     "uptimeWeek": "97.60%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.03%",
@@ -69,7 +69,7 @@
       "2021-09-17": 31,
       "2021-09-16": 358,
       "2021-09-15": 172,
-      "2021-09-14": 160
+      "2021-09-14": 137
     }
   },
   {
@@ -78,18 +78,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-2",
     "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "93.67%",
-    "uptimeWeek": "97.76%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "98.97%",
+    "uptime": "98.94%",
+    "uptimeDay": "94.22%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "98.94%",
     "time": 2047,
     "timeDay": 6035,
     "timeWeek": 2816,
     "timeMonth": 2557,
     "timeYear": 2047,
     "dailyMinutesDown": {
-      "2022-02-26": 49,
+      "2022-02-26": 41,
       "2022-02-25": 43,
       "2022-02-24": 134,
       "2022-02-10": 17,
@@ -141,7 +141,8 @@
       "2021-09-14": 214,
       "2021-09-13": 26,
       "2021-09-09": 26,
-      "2021-09-08": 530
+      "2021-09-08": 530,
+      "2021-09-07": 81
     }
   },
   {
@@ -305,9 +306,9 @@
     "slug": "happy-vibes-bot-5",
     "status": "up",
     "uptime": "98.77%",
-    "uptimeDay": "89.67%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "99.46%",
+    "uptimeDay": "90.11%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "98.77%",
     "time": 1499,
     "timeDay": 6873,
@@ -315,7 +316,7 @@
     "timeMonth": 2484,
     "timeYear": 1499,
     "dailyMinutesDown": {
-      "2022-02-26": 91,
+      "2022-02-26": 85,
       "2022-02-25": 57,
       "2022-02-24": 16,
       "2022-02-10": 18,
@@ -377,7 +378,8 @@
       "2021-08-22": 170,
       "2021-08-21": 117,
       "2021-08-20": 15,
-      "2021-08-19": 29
+      "2021-08-19": 29,
+      "2021-08-18": 20
     }
   }
 ]
