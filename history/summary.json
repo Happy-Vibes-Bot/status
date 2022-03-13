@@ -160,9 +160,9 @@
     "slug": "happy-vibes-bot-3",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "97.54%",
-    "uptimeMonth": "98.31%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "98.33%",
     "uptimeYear": "99.02%",
     "time": 1072,
     "timeDay": 1792,
@@ -170,7 +170,6 @@
     "timeMonth": 2060,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2022-03-13": 6,
       "2022-03-12": 35,
       "2022-03-10": 15,
       "2022-03-09": 80,
@@ -227,7 +226,8 @@
       "2021-09-03": 14,
       "2021-09-02": 24,
       "2021-09-01": 28,
-      "2021-08-29": 6
+      "2021-08-29": 6,
+      "2021-08-28": 6
     }
   },
   {
@@ -235,11 +235,11 @@
     "url": "$BOT4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "96.85%",
-    "uptimeMonth": "98.07%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "98.08%",
     "uptimeYear": "99.12%",
     "time": 1322,
     "timeDay": 1804,
@@ -247,7 +247,7 @@
     "timeMonth": 1945,
     "timeYear": 1322,
     "dailyMinutesDown": {
-      "2022-03-13": 6,
+      "2022-03-13": 0,
       "2022-03-12": 45,
       "2022-03-10": 51,
       "2022-03-09": 96,
@@ -315,17 +315,16 @@
     "slug": "happy-vibes-bot-5",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "98.30%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "96.90%",
+    "uptimeMonth": "98.31%",
     "uptimeYear": "98.79%",
     "time": 1730,
     "timeDay": 3006,
-    "timeWeek": 3778,
+    "timeWeek": 3718,
     "timeMonth": 3219,
     "timeYear": 1730,
     "dailyMinutesDown": {
-      "2022-03-13": 6,
       "2022-03-12": 47,
       "2022-03-11": 40,
       "2022-03-10": 31,
@@ -392,7 +391,7 @@
       "2021-08-30": 10,
       "2021-08-27": 6,
       "2021-08-26": 7,
-      "2021-08-24": 13
+      "2021-08-24": 21
     }
   }
 ]
