@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
     "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.35%",
-    "uptimeYear": "99.25%",
+    "uptime": "99.24%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "99.24%",
     "time": 1694,
-    "timeDay": 3148,
+    "timeDay": 3704,
     "timeWeek": 2127,
-    "timeMonth": 1970,
+    "timeMonth": 1986,
     "timeYear": 1694,
     "dailyMinutesDown": {
-      "2022-03-17": 32,
+      "2022-03-17": 27,
       "2022-03-13": 16,
       "2022-03-12": 16,
       "2022-03-11": 27,
@@ -72,7 +72,7 @@
       "2021-09-29": 30,
       "2021-09-28": 19,
       "2021-09-27": 102,
-      "2021-09-26": 35
+      "2021-09-26": 68
     }
   },
   {
@@ -80,18 +80,19 @@
     "url": "$BOT2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "99.30%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "99.31%",
     "time": 2143,
     "timeDay": 597,
     "timeWeek": 1485,
     "timeMonth": 2627,
     "timeYear": 2143,
     "dailyMinutesDown": {
+      "2022-03-17": 2,
       "2022-03-16": 18,
       "2022-03-15": 51,
       "2022-03-14": 26,
@@ -151,8 +152,7 @@
       "2021-09-27": 37,
       "2021-09-26": 77,
       "2021-09-25": 27,
-      "2021-09-24": 88,
-      "2021-09-21": 9
+      "2021-09-24": 88
     }
   },
   {
@@ -238,12 +238,12 @@
     "url": "$BOT4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "98.29%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "98.26%",
     "uptimeWeek": "97.85%",
     "uptimeMonth": "97.76%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.21%",
     "time": 1347,
     "timeDay": 770,
     "timeWeek": 1953,
@@ -308,7 +308,7 @@
       "2021-09-27": 12,
       "2021-09-25": 55,
       "2021-09-24": 26,
-      "2021-09-21": 29
+      "2021-09-21": 7
     }
   },
   {
