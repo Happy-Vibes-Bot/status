@@ -317,12 +317,12 @@
     "url": "$BOT5",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "78.56%",
-    "uptimeWeek": "94.26%",
+    "status": "down",
+    "uptime": "98.77%",
+    "uptimeDay": "78.52%",
+    "uptimeWeek": "94.25%",
     "uptimeMonth": "97.10%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.77%",
     "time": 1774,
     "timeDay": 475,
     "timeWeek": 2448,
@@ -392,7 +392,7 @@
       "2021-09-14": 131,
       "2021-09-10": 6,
       "2021-09-08": 588,
-      "2021-09-07": 220
+      "2021-09-07": 150
     }
   }
 ]
