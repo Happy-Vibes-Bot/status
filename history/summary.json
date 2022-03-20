@@ -4,11 +4,11 @@
     "url": "$BOT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "92.63%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "97.82%",
+    "uptimeDay": "93.17%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "97.84%",
     "uptimeYear": "99.21%",
     "time": 1849,
     "timeDay": 6725,
@@ -16,7 +16,7 @@
     "timeMonth": 2681,
     "timeYear": 1849,
     "dailyMinutesDown": {
-      "2022-03-20": 83,
+      "2022-03-20": 75,
       "2022-03-19": 23,
       "2022-03-18": 114,
       "2022-03-17": 42,
@@ -243,9 +243,9 @@
     "slug": "happy-vibes-bot-4",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "91.59%",
-    "uptimeWeek": "92.27%",
-    "uptimeMonth": "96.30%",
+    "uptimeDay": "92.17%",
+    "uptimeWeek": "92.36%",
+    "uptimeMonth": "96.32%",
     "uptimeYear": "99.03%",
     "time": 1461,
     "timeDay": 5748,
@@ -253,7 +253,7 @@
     "timeMonth": 2374,
     "timeYear": 1461,
     "dailyMinutesDown": {
-      "2022-03-20": 121,
+      "2022-03-20": 113,
       "2022-03-18": 432,
       "2022-03-17": 110,
       "2022-03-16": 17,
@@ -311,7 +311,7 @@
       "2021-09-30": 52,
       "2021-09-28": 8,
       "2021-09-27": 12,
-      "2021-09-25": 36
+      "2021-09-25": 55
     }
   },
   {
@@ -320,18 +320,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-5",
     "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "90.34%",
-    "uptimeWeek": "93.35%",
-    "uptimeMonth": "96.78%",
-    "uptimeYear": "98.87%",
+    "uptime": "98.79%",
+    "uptimeDay": "90.93%",
+    "uptimeWeek": "93.43%",
+    "uptimeMonth": "96.80%",
+    "uptimeYear": "98.79%",
     "time": 1783,
     "timeDay": 3066,
     "timeWeek": 2451,
     "timeMonth": 3151,
     "timeYear": 1783,
     "dailyMinutesDown": {
-      "2022-03-20": 139,
+      "2022-03-20": 131,
       "2022-03-18": 245,
       "2022-03-17": 90,
       "2022-03-15": 34,
@@ -394,7 +394,7 @@
       "2021-09-15": 37,
       "2021-09-14": 131,
       "2021-09-10": 6,
-      "2021-09-08": 324
+      "2021-09-08": 588
     }
   }
 ]
