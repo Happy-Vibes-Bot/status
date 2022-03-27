@@ -1,7 +1,7 @@
 url: $BOT4
-status: down
-code: 404
-responseTime: 5889
-lastUpdated: 2022-03-27T21:27:49.615Z
+status: up
+code: 200
+responseTime: 3180
+lastUpdated: 2022-03-27T21:51:42.983Z
 startTime: Wed Aug 11 2021 17:48:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
