@@ -4,15 +4,15 @@
     "url": "$BOT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "85.13%",
-    "uptimeWeek": "89.83%",
+    "uptimeDay": "85.11%",
+    "uptimeWeek": "90.05%",
     "uptimeMonth": "96.05%",
     "uptimeYear": "99.04%",
     "time": 1988,
     "timeDay": 4159,
-    "timeWeek": 3537,
+    "timeWeek": 3401,
     "timeMonth": 3206,
     "timeYear": 1988,
     "dailyMinutesDown": {
@@ -69,7 +69,7 @@
       "2021-10-15": 25,
       "2021-10-14": 34,
       "2021-10-12": 8,
-      "2021-10-11": 24
+      "2021-10-11": 11
     }
   },
   {
@@ -77,18 +77,19 @@
     "url": "$BOT2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.84%",
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "92.83%",
     "uptimeMonth": "96.73%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.19%",
     "time": 2186,
     "timeDay": 2987,
     "timeWeek": 2081,
     "timeMonth": 2661,
     "timeYear": 2186,
     "dailyMinutesDown": {
+      "2022-03-27": 0,
       "2022-03-26": 59,
       "2022-03-25": 185,
       "2022-03-24": 82,
@@ -144,8 +145,7 @@
       "2021-10-12": 16,
       "2021-10-11": 42,
       "2021-10-10": 25,
-      "2021-10-09": 32,
-      "2021-10-08": 7
+      "2021-10-09": 32
     }
   },
   {
@@ -155,17 +155,17 @@
     "slug": "happy-vibes-bot-3",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "93.01%",
-    "uptimeWeek": "92.52%",
-    "uptimeMonth": "94.85%",
+    "uptimeDay": "93.52%",
+    "uptimeWeek": "92.59%",
+    "uptimeMonth": "94.87%",
     "uptimeYear": "99.00%",
     "time": 1422,
     "timeDay": 3205,
-    "timeWeek": 3703,
+    "timeWeek": 3592,
     "timeMonth": 2761,
     "timeYear": 1422,
     "dailyMinutesDown": {
-      "2022-03-27": 101,
+      "2022-03-27": 94,
       "2022-03-26": 188,
       "2022-03-25": 180,
       "2022-03-24": 16,
@@ -220,7 +220,8 @@
       "2021-09-28": 52,
       "2021-09-27": 33,
       "2021-09-25": 27,
-      "2021-09-24": 13
+      "2021-09-24": 13,
+      "2021-09-22": 6
     }
   },
   {
@@ -303,12 +304,12 @@
     "status": "up",
     "uptime": "99.05%",
     "uptimeDay": "95.42%",
-    "uptimeWeek": "95.22%",
+    "uptimeWeek": "95.24%",
     "uptimeMonth": "96.01%",
     "uptimeYear": "99.05%",
     "time": 1973,
     "timeDay": 2904,
-    "timeWeek": 3670,
+    "timeWeek": 3598,
     "timeMonth": 3139,
     "timeYear": 1973,
     "dailyMinutesDown": {
