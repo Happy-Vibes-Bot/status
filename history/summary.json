@@ -77,17 +77,17 @@
     "slug": "happy-vibes-bot-2",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "82.37%",
-    "uptimeWeek": "92.66%",
-    "uptimeMonth": "96.15%",
+    "uptimeDay": "83.21%",
+    "uptimeWeek": "93.04%",
+    "uptimeMonth": "96.18%",
     "uptimeYear": "99.13%",
     "time": 2271,
     "timeDay": 7065,
-    "timeWeek": 3297,
+    "timeWeek": 3362,
     "timeMonth": 2976,
     "timeYear": 2271,
     "dailyMinutesDown": {
-      "2022-03-28": 188,
+      "2022-03-28": 176,
       "2022-03-27": 66,
       "2022-03-26": 59,
       "2022-03-25": 185,
@@ -142,7 +142,7 @@
       "2021-10-17": 6,
       "2021-10-15": 12,
       "2021-10-12": 16,
-      "2021-10-11": 27
+      "2021-10-11": 42
     }
   },
   {
@@ -153,12 +153,12 @@
     "status": "up",
     "uptime": "98.97%",
     "uptimeDay": "88.56%",
-    "uptimeWeek": "91.98%",
+    "uptimeWeek": "92.12%",
     "uptimeMonth": "94.53%",
     "uptimeYear": "98.97%",
     "time": 1454,
     "timeDay": 3904,
-    "timeWeek": 3592,
+    "timeWeek": 3433,
     "timeMonth": 2850,
     "timeYear": 1454,
     "dailyMinutesDown": {
@@ -226,9 +226,9 @@
     "slug": "happy-vibes-bot-4",
     "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "87.16%",
-    "uptimeWeek": "92.89%",
-    "uptimeMonth": "95.14%",
+    "uptimeDay": "87.90%",
+    "uptimeWeek": "93.00%",
+    "uptimeMonth": "95.16%",
     "uptimeYear": "98.92%",
     "time": 1643,
     "timeDay": 1674,
@@ -236,7 +236,7 @@
     "timeMonth": 2680,
     "timeYear": 1643,
     "dailyMinutesDown": {
-      "2022-03-28": 161,
+      "2022-03-28": 150,
       "2022-03-27": 183,
       "2022-03-26": 54,
       "2022-03-25": 87,
@@ -284,7 +284,8 @@
       "2021-10-26": 6,
       "2021-10-25": 49,
       "2021-10-22": 18,
-      "2021-10-20": 21
+      "2021-10-20": 21,
+      "2021-10-19": 16
     }
   },
   {
@@ -292,17 +293,17 @@
     "url": "$BOT5",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "90.87%",
-    "uptimeWeek": "95.19%",
+    "uptimeDay": "90.84%",
+    "uptimeWeek": "95.34%",
     "uptimeMonth": "95.71%",
     "uptimeYear": "99.04%",
-    "time": 2041,
-    "timeDay": 4423,
-    "timeWeek": 3879,
-    "timeMonth": 3288,
-    "timeYear": 2041,
+    "time": 2049,
+    "timeDay": 4541,
+    "timeWeek": 3985,
+    "timeMonth": 3307,
+    "timeYear": 2049,
     "dailyMinutesDown": {
       "2022-03-28": 116,
       "2022-03-27": 82,
@@ -358,8 +359,7 @@
       "2021-10-09": 6,
       "2021-10-06": 27,
       "2021-10-05": 33,
-      "2021-10-03": 22,
-      "2021-10-02": 15
+      "2021-10-03": 22
     }
   }
 ]
