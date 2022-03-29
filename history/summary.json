@@ -4,19 +4,19 @@
     "url": "$BOT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "96.31%",
-    "uptimeWeek": "90.47%",
+    "uptimeDay": "96.27%",
+    "uptimeWeek": "90.46%",
     "uptimeMonth": "95.78%",
     "uptimeYear": "99.03%",
-    "time": 2064,
-    "timeDay": 3652,
-    "timeWeek": 3361,
-    "timeMonth": 3405,
-    "timeYear": 2064,
+    "time": 2074,
+    "timeDay": 4118,
+    "timeWeek": 3453,
+    "timeMonth": 3438,
+    "timeYear": 2074,
     "dailyMinutesDown": {
-      "2022-03-29": 53,
+      "2022-03-29": 54,
       "2022-03-27": 279,
       "2022-03-26": 301,
       "2022-03-25": 248,
@@ -68,7 +68,7 @@
       "2021-10-17": 39,
       "2021-10-16": 30,
       "2021-10-15": 25,
-      "2021-10-14": 13
+      "2021-10-14": 4
     }
   },
   {
@@ -225,15 +225,15 @@
     "url": "$BOT4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "86.75%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "86.73%",
     "uptimeWeek": "91.81%",
     "uptimeMonth": "94.85%",
-    "uptimeYear": "98.90%",
+    "uptimeYear": "98.91%",
     "time": 1662,
     "timeDay": 2315,
-    "timeWeek": 2740,
+    "timeWeek": 2642,
     "timeMonth": 2696,
     "timeYear": 1662,
     "dailyMinutesDown": {
@@ -284,7 +284,7 @@
       "2021-10-28": 16,
       "2021-10-27": 15,
       "2021-10-26": 6,
-      "2021-10-25": 41
+      "2021-10-25": 22
     }
   },
   {
@@ -292,15 +292,15 @@
     "url": "$BOT5",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "89.51%",
+    "uptimeDay": "89.49%",
     "uptimeWeek": "94.26%",
     "uptimeMonth": "95.42%",
     "uptimeYear": "99.03%",
     "time": 2082,
     "timeDay": 3872,
-    "timeWeek": 4023,
+    "timeWeek": 3863,
     "timeMonth": 3344,
     "timeYear": 2082,
     "dailyMinutesDown": {
@@ -357,7 +357,7 @@
       "2021-10-13": 69,
       "2021-10-10": 19,
       "2021-10-09": 6,
-      "2021-10-06": 27
+      "2021-10-06": 14
     }
   }
 ]
