@@ -8,12 +8,12 @@
     "uptime": "98.99%",
     "uptimeDay": "80.42%",
     "uptimeWeek": "87.38%",
-    "uptimeMonth": "95.00%",
+    "uptimeMonth": "95.02%",
     "uptimeYear": "98.99%",
     "time": 2089,
     "timeDay": 2866,
     "timeWeek": 3144,
-    "timeMonth": 3359,
+    "timeMonth": 3333,
     "timeYear": 2089,
     "dailyMinutesDown": {
       "2022-03-30": 224,
@@ -71,16 +71,16 @@
     "url": "$BOT2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "88.92%",
+    "uptimeDay": "88.90%",
     "uptimeWeek": "91.36%",
-    "uptimeMonth": "95.49%",
+    "uptimeMonth": "95.50%",
     "uptimeYear": "99.09%",
     "time": 2356,
     "timeDay": 6644,
     "timeWeek": 3659,
-    "timeMonth": 3164,
+    "timeMonth": 3086,
     "timeYear": 2356,
     "dailyMinutesDown": {
       "2022-03-30": 109,
@@ -133,7 +133,7 @@
       "2021-10-28": 18,
       "2021-10-27": 42,
       "2021-10-26": 6,
-      "2021-10-25": 18
+      "2021-10-25": 10
     }
   },
   {
@@ -145,12 +145,12 @@
     "uptime": "98.88%",
     "uptimeDay": "88.70%",
     "uptimeWeek": "88.85%",
-    "uptimeMonth": "93.43%",
+    "uptimeMonth": "93.45%",
     "uptimeYear": "98.88%",
     "time": 1530,
     "timeDay": 3946,
     "timeWeek": 3367,
-    "timeMonth": 2876,
+    "timeMonth": 2843,
     "timeYear": 1530,
     "dailyMinutesDown": {
       "2022-03-30": 110,
@@ -217,12 +217,12 @@
     "uptime": "98.80%",
     "uptimeDay": "74.83%",
     "uptimeWeek": "87.90%",
-    "uptimeMonth": "93.75%",
+    "uptimeMonth": "93.77%",
     "uptimeYear": "98.80%",
     "time": 1700,
     "timeDay": 1837,
     "timeWeek": 2629,
-    "timeMonth": 2698,
+    "timeMonth": 2712,
     "timeYear": 1700,
     "dailyMinutesDown": {
       "2022-03-30": 311,
@@ -276,17 +276,17 @@
     "slug": "happy-vibes-bot-5",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "80.73%",
-    "uptimeWeek": "91.42%",
-    "uptimeMonth": "94.61%",
+    "uptimeDay": "81.47%",
+    "uptimeWeek": "91.53%",
+    "uptimeMonth": "94.65%",
     "uptimeYear": "98.97%",
     "time": 2159,
     "timeDay": 4511,
     "timeWeek": 4200,
-    "timeMonth": 3451,
+    "timeMonth": 3467,
     "timeYear": 2159,
     "dailyMinutesDown": {
-      "2022-03-30": 226,
+      "2022-03-30": 215,
       "2022-03-29": 181,
       "2022-03-28": 190,
       "2022-03-27": 82,
@@ -332,7 +332,8 @@
       "2021-10-25": 20,
       "2021-10-24": 38,
       "2021-10-23": 18,
-      "2021-10-22": 13
+      "2021-10-22": 13,
+      "2021-10-21": 15
     }
   }
 ]
