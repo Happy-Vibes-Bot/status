@@ -6,7 +6,7 @@
     "slug": "happy-vibes-bot-1",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "86.88%",
+    "uptimeDay": "87.47%",
     "uptimeWeek": "86.37%",
     "uptimeMonth": "94.77%",
     "uptimeYear": "98.97%",
@@ -70,17 +70,17 @@
     "url": "$BOT2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "88.98%",
+    "uptimeDay": "88.97%",
     "uptimeWeek": "90.37%",
     "uptimeMonth": "95.21%",
     "uptimeYear": "99.07%",
-    "time": 2347,
-    "timeDay": 4628,
-    "timeWeek": 3556,
-    "timeMonth": 3098,
-    "timeYear": 2347,
+    "time": 2349,
+    "timeDay": 4554,
+    "timeWeek": 3561,
+    "timeMonth": 3103,
+    "timeYear": 2349,
     "dailyMinutesDown": {
       "2022-03-31": 77,
       "2022-03-30": 155,
@@ -131,7 +131,7 @@
       "2021-10-30": 43,
       "2021-10-29": 43,
       "2021-10-28": 18,
-      "2021-10-27": 27
+      "2021-10-27": 6
     }
   },
   {
@@ -139,12 +139,12 @@
     "url": "$BOT3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-3",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "88.41%",
-    "uptimeWeek": "87.89%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "88.39%",
+    "uptimeWeek": "87.88%",
     "uptimeMonth": "93.21%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.88%",
     "time": 1583,
     "timeDay": 4736,
     "timeWeek": 3369,
@@ -199,8 +199,7 @@
       "2021-10-21": 42,
       "2021-10-20": 9,
       "2021-10-17": 22,
-      "2021-10-12": 13,
-      "2021-10-10": 5
+      "2021-10-12": 13
     }
   },
   {
@@ -208,12 +207,12 @@
     "url": "$BOT4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "89.29%",
-    "uptimeWeek": "86.98%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "89.27%",
+    "uptimeWeek": "86.97%",
     "uptimeMonth": "93.50%",
-    "uptimeYear": "98.81%",
+    "uptimeYear": "98.82%",
     "time": 1735,
     "timeDay": 2849,
     "timeWeek": 2853,
@@ -260,8 +259,7 @@
       "2021-12-07": 78,
       "2021-11-10": 95,
       "2021-11-04": 65,
-      "2021-11-03": 349,
-      "2021-11-02": 21
+      "2021-11-03": 349
     }
   },
   {
@@ -269,9 +267,9 @@
     "url": "$BOT5",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "93.47%",
+    "uptimeDay": "93.44%",
     "uptimeWeek": "90.94%",
     "uptimeMonth": "94.46%",
     "uptimeYear": "98.96%",
@@ -327,7 +325,7 @@
       "2021-10-26": 9,
       "2021-10-25": 20,
       "2021-10-24": 38,
-      "2021-10-23": 18
+      "2021-10-23": 2
     }
   }
 ]
