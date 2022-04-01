@@ -68,10 +68,10 @@
     "url": "$BOT2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "86.45%",
-    "uptimeWeek": "90.52%",
+    "uptimeDay": "86.38%",
+    "uptimeWeek": "90.51%",
     "uptimeMonth": "95.01%",
     "uptimeYear": "99.04%",
     "time": 2429,
@@ -80,7 +80,7 @@
     "timeMonth": 3178,
     "timeYear": 2429,
     "dailyMinutesDown": {
-      "2022-04-01": 195,
+      "2022-04-01": 196,
       "2022-03-31": 113,
       "2022-03-30": 155,
       "2022-03-29": 153,
@@ -127,7 +127,7 @@
       "2021-11-02": 74,
       "2021-11-01": 7,
       "2021-10-31": 13,
-      "2021-10-30": 25
+      "2021-10-30": 17
     }
   },
   {
@@ -137,9 +137,9 @@
     "slug": "happy-vibes-bot-3",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "78.86%",
-    "uptimeWeek": "85.71%",
-    "uptimeMonth": "92.92%",
+    "uptimeDay": "79.33%",
+    "uptimeWeek": "85.78%",
+    "uptimeMonth": "92.94%",
     "uptimeYear": "98.79%",
     "time": 1651,
     "timeDay": 4336,
@@ -147,7 +147,7 @@
     "timeMonth": 2978,
     "timeYear": 1651,
     "dailyMinutesDown": {
-      "2022-04-01": 305,
+      "2022-04-01": 298,
       "2022-03-31": 173,
       "2022-03-30": 146,
       "2022-03-29": 356,
@@ -191,7 +191,7 @@
       "2021-10-31": 6,
       "2021-10-30": 40,
       "2021-10-27": 46,
-      "2021-10-26": 6
+      "2021-10-26": 16
     }
   },
   {
@@ -200,18 +200,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-4",
     "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "75.85%",
-    "uptimeWeek": "84.36%",
-    "uptimeMonth": "92.77%",
-    "uptimeYear": "98.86%",
+    "uptime": "98.84%",
+    "uptimeDay": "76.32%",
+    "uptimeWeek": "84.43%",
+    "uptimeMonth": "92.79%",
+    "uptimeYear": "98.84%",
     "time": 1764,
     "timeDay": 2255,
     "timeWeek": 2874,
     "timeMonth": 2704,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2022-04-01": 347,
+      "2022-04-01": 340,
       "2022-03-31": 202,
       "2022-03-30": 330,
       "2022-03-29": 294,
@@ -248,7 +248,8 @@
       "2021-12-31": 22,
       "2021-12-28": 24,
       "2021-12-27": 22,
-      "2021-12-16": 16
+      "2021-12-16": 16,
+      "2021-12-07": 78
     }
   },
   {
