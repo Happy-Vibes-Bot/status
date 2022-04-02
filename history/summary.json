@@ -137,8 +137,8 @@
     "slug": "happy-vibes-bot-3",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "79.33%",
-    "uptimeWeek": "85.78%",
+    "uptimeDay": "80.45%",
+    "uptimeWeek": "86.18%",
     "uptimeMonth": "92.94%",
     "uptimeYear": "98.79%",
     "time": 1650,
@@ -201,7 +201,7 @@
     "slug": "happy-vibes-bot-4",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "75.22%",
+    "uptimeDay": "76.27%",
     "uptimeWeek": "84.27%",
     "uptimeMonth": "92.75%",
     "uptimeYear": "98.86%",
@@ -258,9 +258,9 @@
     "slug": "happy-vibes-bot-5",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "88.85%",
-    "uptimeWeek": "89.17%",
-    "uptimeMonth": "94.33%",
+    "uptimeDay": "89.42%",
+    "uptimeWeek": "89.25%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "98.94%",
     "time": 2267,
     "timeDay": 4101,
@@ -268,7 +268,7 @@
     "timeMonth": 3550,
     "timeYear": 2267,
     "dailyMinutesDown": {
-      "2022-04-01": 160,
+      "2022-04-01": 152,
       "2022-03-31": 159,
       "2022-03-30": 248,
       "2022-03-29": 181,
@@ -308,7 +308,8 @@
       "2021-11-10": 48,
       "2021-11-05": 26,
       "2021-11-04": 127,
-      "2021-11-03": 203
+      "2021-11-03": 203,
+      "2021-10-30": 18
     }
   }
 ]
