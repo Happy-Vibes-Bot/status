@@ -4,19 +4,19 @@
     "url": "$BOT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "84.77%",
-    "uptimeWeek": "92.46%",
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "84.72%",
+    "uptimeWeek": "92.45%",
     "uptimeMonth": "94.17%",
-    "uptimeYear": "98.96%",
+    "uptimeYear": "98.97%",
     "time": 2279,
     "timeDay": 2055,
     "timeWeek": 4188,
     "timeMonth": 3774,
     "timeYear": 2279,
     "dailyMinutesDown": {
-      "2022-04-05": 220,
+      "2022-04-05": 221,
       "2022-04-04": 25,
       "2022-04-03": 15,
       "2022-04-02": 60,
@@ -59,7 +59,7 @@
       "2021-11-10": 43,
       "2021-11-07": 17,
       "2021-11-04": 22,
-      "2021-11-03": 171
+      "2021-11-03": 150
     }
   },
   {
@@ -133,15 +133,15 @@
     "url": "$BOT3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-3",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "93.30%",
+    "uptimeDay": "93.28%",
     "uptimeWeek": "91.92%",
     "uptimeMonth": "92.58%",
     "uptimeYear": "98.77%",
     "time": 1644,
     "timeDay": 393,
-    "timeWeek": 3252,
+    "timeWeek": 3208,
     "timeMonth": 2932,
     "timeYear": 1644,
     "dailyMinutesDown": {
@@ -190,8 +190,7 @@
       "2021-11-05": 27,
       "2021-11-03": 117,
       "2021-10-31": 6,
-      "2021-10-30": 40,
-      "2021-10-27": 5
+      "2021-10-30": 40
     }
   },
   {
@@ -199,11 +198,11 @@
     "url": "$BOT4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "89.17%",
-    "uptimeWeek": "88.13%",
-    "uptimeMonth": "92.13%",
+    "uptimeDay": "89.73%",
+    "uptimeWeek": "88.21%",
+    "uptimeMonth": "92.15%",
     "uptimeYear": "98.88%",
     "time": 1767,
     "timeDay": 1890,
@@ -211,7 +210,7 @@
     "timeMonth": 2720,
     "timeYear": 1767,
     "dailyMinutesDown": {
-      "2022-04-05": 156,
+      "2022-04-05": 148,
       "2022-04-04": 46,
       "2022-04-02": 105,
       "2022-04-01": 356,
