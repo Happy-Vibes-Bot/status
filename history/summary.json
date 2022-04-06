@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "98.96%",
     "uptimeDay": "81.94%",
-    "uptimeWeek": "92.05%",
+    "uptimeWeek": "92.07%",
     "uptimeMonth": "94.08%",
     "uptimeYear": "98.96%",
     "time": 2299,
     "timeDay": 3151,
-    "timeWeek": 4173,
+    "timeWeek": 4186,
     "timeMonth": 3823,
     "timeYear": 2299,
     "dailyMinutesDown": {
@@ -67,18 +67,19 @@
     "url": "$BOT2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "79.18%",
-    "uptimeWeek": "91.86%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "78.95%",
+    "uptimeWeek": "91.82%",
     "uptimeMonth": "94.28%",
-    "uptimeYear": "99.04%",
+    "uptimeYear": "99.05%",
     "time": 2437,
     "timeDay": 3242,
     "timeWeek": 4252,
     "timeMonth": 3130,
     "timeYear": 2437,
     "dailyMinutesDown": {
+      "2022-04-06": 3,
       "2022-04-05": 299,
       "2022-04-03": 18,
       "2022-04-02": 25,
@@ -122,8 +123,7 @@
       "2021-11-26": 21,
       "2021-11-15": 18,
       "2021-11-10": 22,
-      "2021-11-08": 16,
-      "2021-11-05": 18
+      "2021-11-08": 16
     }
   },
   {
@@ -196,9 +196,9 @@
     "url": "$BOT4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "86.76%",
+    "uptimeDay": "86.63%",
     "uptimeWeek": "87.79%",
     "uptimeMonth": "92.05%",
     "uptimeYear": "98.89%",
@@ -208,6 +208,7 @@
     "timeMonth": 2760,
     "timeYear": 1784,
     "dailyMinutesDown": {
+      "2022-04-06": 2,
       "2022-04-05": 191,
       "2022-04-04": 46,
       "2022-04-02": 105,
@@ -238,7 +239,7 @@
       "2022-03-01": 39,
       "2022-02-28": 103,
       "2022-02-27": 63,
-      "2022-02-26": 71
+      "2022-02-26": 56
     }
   },
   {
@@ -246,18 +247,19 @@
     "url": "$BOT5",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "74.85%",
-    "uptimeWeek": "89.40%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "74.82%",
+    "uptimeWeek": "89.41%",
     "uptimeMonth": "93.30%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "98.93%",
     "time": 2321,
     "timeDay": 2064,
     "timeWeek": 4362,
     "timeMonth": 3715,
     "timeYear": 2321,
     "dailyMinutesDown": {
+      "2022-04-06": 0,
       "2022-04-05": 362,
       "2022-04-04": 36,
       "2022-04-02": 110,
@@ -297,8 +299,7 @@
       "2022-01-06": 10,
       "2021-12-07": 78,
       "2021-12-05": 16,
-      "2021-11-24": 33,
-      "2021-11-10": 29
+      "2021-11-24": 33
     }
   }
 ]
