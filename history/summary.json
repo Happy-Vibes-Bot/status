@@ -4,18 +4,19 @@
     "url": "$BOT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.92%",
     "uptimeMonth": "93.37%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "98.99%",
     "time": 2297,
     "timeDay": 338,
     "timeWeek": 2031,
     "timeMonth": 3865,
     "timeYear": 2297,
     "dailyMinutesDown": {
+      "2022-04-16": 0,
       "2022-04-15": 21,
       "2022-04-12": 16,
       "2022-04-11": 72,
@@ -54,8 +55,7 @@
       "2022-02-26": 202,
       "2022-02-25": 23,
       "2022-02-24": 16,
-      "2022-02-10": 17,
-      "2022-02-03": 17
+      "2022-02-10": 17
     }
   },
   {
@@ -65,9 +65,9 @@
     "slug": "happy-vibes-bot-2",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "93.15%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "93.18%",
     "uptimeYear": "98.98%",
     "time": 2401,
     "timeDay": 942,
@@ -75,7 +75,7 @@
     "timeMonth": 3064,
     "timeYear": 2401,
     "dailyMinutesDown": {
-      "2022-04-16": 36,
+      "2022-04-16": 23,
       "2022-04-13": 19,
       "2022-04-12": 41,
       "2022-04-11": 76,
@@ -116,7 +116,7 @@
       "2022-02-28": 109,
       "2022-02-26": 41,
       "2022-02-25": 43,
-      "2022-02-24": 16
+      "2022-02-24": 32
     }
   },
   {
@@ -124,12 +124,12 @@
     "url": "$BOT3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-3",
-    "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "93.28%",
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "93.27%",
     "uptimeWeek": "98.08%",
     "uptimeMonth": "91.33%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.72%",
     "time": 1794,
     "timeDay": 2600,
     "timeWeek": 2437,
@@ -176,8 +176,7 @@
       "2022-02-28": 240,
       "2022-02-27": 100,
       "2022-02-25": 22,
-      "2022-02-24": 16,
-      "2022-02-16": 21
+      "2022-02-24": 16
     }
   },
   {
