@@ -123,12 +123,12 @@
     "url": "$BOT3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-3",
-    "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "86.72%",
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "86.70%",
     "uptimeWeek": "96.95%",
     "uptimeMonth": "91.07%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.72%",
     "time": 1808,
     "timeDay": 3116,
     "timeWeek": 2605,
@@ -173,7 +173,7 @@
       "2022-03-02": 17,
       "2022-03-01": 52,
       "2022-02-28": 240,
-      "2022-02-27": 36
+      "2022-02-27": 15
     }
   },
   {
