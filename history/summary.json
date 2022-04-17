@@ -4,14 +4,14 @@
     "url": "$BOT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "96.27%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "97.50%",
     "uptimeWeek": "98.26%",
     "uptimeMonth": "93.28%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "98.99%",
     "time": 2284,
-    "timeDay": 1434,
+    "timeDay": 1481,
     "timeWeek": 1912,
     "timeMonth": 3765,
     "timeYear": 2284,
@@ -54,7 +54,7 @@
       "2022-03-01": 38,
       "2022-02-28": 104,
       "2022-02-26": 202,
-      "2022-02-25": 23
+      "2022-02-25": 3
     }
   },
   {
@@ -62,12 +62,12 @@
     "url": "$BOT2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "97.47%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "97.45%",
     "uptimeWeek": "97.72%",
     "uptimeMonth": "93.01%",
-    "uptimeYear": "99.00%",
+    "uptimeYear": "99.02%",
     "time": 2395,
     "timeDay": 1963,
     "timeWeek": 1900,
@@ -113,7 +113,7 @@
       "2022-03-05": 23,
       "2022-03-02": 17,
       "2022-03-01": 37,
-      "2022-02-28": 109
+      "2022-02-28": 24
     }
   },
   {
@@ -121,12 +121,12 @@
     "url": "$BOT3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-3",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "80.61%",
+    "status": "down",
+    "uptime": "98.79%",
+    "uptimeDay": "80.59%",
     "uptimeWeek": "94.18%",
     "uptimeMonth": "90.49%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.79%",
     "time": 1833,
     "timeDay": 2748,
     "timeWeek": 2770,
@@ -165,7 +165,7 @@
       "2022-03-13": 16,
       "2022-03-12": 35,
       "2022-03-10": 15,
-      "2022-03-09": 80
+      "2022-03-09": 35
     }
   },
   {
