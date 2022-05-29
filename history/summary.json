@@ -69,18 +69,19 @@
     "url": "$BOT2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.75%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "96.73%",
     "uptimeMonth": "97.35%",
-    "uptimeYear": "99.01%",
+    "uptimeYear": "99.02%",
     "time": 2287,
     "timeDay": 182,
     "timeWeek": 1477,
     "timeMonth": 1407,
     "timeYear": 2287,
     "dailyMinutesDown": {
+      "2022-05-29": 2,
       "2022-05-28": 142,
       "2022-05-27": 55,
       "2022-05-26": 41,
@@ -120,7 +121,7 @@
       "2022-03-27": 66,
       "2022-03-26": 59,
       "2022-03-25": 185,
-      "2022-03-24": 60
+      "2022-03-24": 16
     }
   },
   {
@@ -129,18 +130,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-3",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "94.98%",
-    "uptimeWeek": "96.60%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "99.06%",
+    "uptime": "99.05%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "99.05%",
     "time": 2076,
-    "timeDay": 339,
-    "timeWeek": 1997,
+    "timeDay": 354,
+    "timeWeek": 2052,
     "timeMonth": 3147,
     "timeYear": 2076,
     "dailyMinutesDown": {
-      "2022-05-29": 72,
+      "2022-05-29": 65,
       "2022-05-28": 86,
       "2022-05-27": 62,
       "2022-05-26": 53,
@@ -176,7 +177,7 @@
       "2022-04-01": 298,
       "2022-03-31": 173,
       "2022-03-30": 146,
-      "2022-03-29": 52
+      "2022-03-29": 114
     }
   },
   {
@@ -184,12 +185,12 @@
     "url": "$BOT4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "95.82%",
-    "uptimeWeek": "95.07%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "95.80%",
+    "uptimeWeek": "95.06%",
     "uptimeMonth": "96.89%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.06%",
     "time": 1871,
     "timeDay": 3890,
     "timeWeek": 2709,
@@ -234,7 +235,7 @@
       "2022-04-01": 356,
       "2022-03-31": 202,
       "2022-03-30": 330,
-      "2022-03-29": 114
+      "2022-03-29": 52
     }
   },
   {
