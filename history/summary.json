@@ -4,7 +4,7 @@
     "url": "$BOT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
     "uptimeDay": "88.77%",
     "uptimeWeek": "91.96%",
@@ -61,7 +61,7 @@
       "2022-04-01": 56,
       "2022-03-31": 144,
       "2022-03-30": 240,
-      "2022-03-29": 82
+      "2022-03-29": 60
     }
   },
   {
