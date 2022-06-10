@@ -6,7 +6,7 @@
     "slug": "happy-vibes-bot-1",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "14.11%",
+    "uptimeDay": "15.27%",
     "uptimeWeek": "83.89%",
     "uptimeMonth": "91.80%",
     "uptimeYear": "98.68%",
@@ -75,18 +75,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-2",
     "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "95.21%",
-    "uptimeMonth": "95.68%",
-    "uptimeYear": "99.00%",
+    "uptime": "98.99%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "95.27%",
+    "uptimeMonth": "95.69%",
+    "uptimeYear": "98.99%",
     "time": 2412,
     "timeDay": 280,
     "timeWeek": 5985,
     "timeMonth": 2827,
     "timeYear": 2412,
     "dailyMinutesDown": {
-      "2022-06-10": 6,
       "2022-06-09": 89,
       "2022-06-08": 172,
       "2022-06-07": 67,
@@ -131,7 +130,7 @@
       "2022-04-01": 213,
       "2022-03-31": 113,
       "2022-03-30": 155,
-      "2022-03-29": 74
+      "2022-03-29": 97
     }
   },
   {
@@ -139,18 +138,19 @@
     "url": "$BOT3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-3",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "95.04%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "95.02%",
     "uptimeWeek": "97.66%",
     "uptimeMonth": "97.42%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.09%",
     "time": 2102,
     "timeDay": 7400,
     "timeWeek": 2826,
     "timeMonth": 3103,
     "timeYear": 2102,
     "dailyMinutesDown": {
+      "2022-06-10": 0,
       "2022-06-09": 92,
       "2022-06-07": 110,
       "2022-06-06": 17,
@@ -191,7 +191,7 @@
       "2022-04-04": 18,
       "2022-04-02": 83,
       "2022-04-01": 298,
-      "2022-03-31": 147
+      "2022-03-31": 112
     }
   },
   {
@@ -267,7 +267,7 @@
     "uptimeYear": "98.94%",
     "time": 2416,
     "timeDay": 6430,
-    "timeWeek": 4472,
+    "timeWeek": 4659,
     "timeMonth": 2784,
     "timeYear": 2416,
     "dailyMinutesDown": {
