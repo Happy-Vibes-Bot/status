@@ -6,17 +6,17 @@
     "slug": "happy-vibes-bot-1",
     "status": "up",
     "uptime": "98.65%",
-    "uptimeDay": "51.45%",
-    "uptimeWeek": "82.30%",
-    "uptimeMonth": "91.40%",
+    "uptimeDay": "60.22%",
+    "uptimeWeek": "82.37%",
+    "uptimeMonth": "91.42%",
     "uptimeYear": "98.65%",
     "time": 2279,
     "timeDay": 9779,
-    "timeWeek": 3825,
+    "timeWeek": 4012,
     "timeMonth": 2660,
     "timeYear": 2279,
     "dailyMinutesDown": {
-      "2022-06-10": 436,
+      "2022-06-10": 429,
       "2022-06-09": 1185,
       "2022-06-07": 164,
       "2022-06-03": 35,
@@ -66,7 +66,7 @@
       "2022-04-04": 25,
       "2022-04-03": 15,
       "2022-04-02": 60,
-      "2022-04-01": 15
+      "2022-04-01": 30
     }
   },
   {
@@ -138,15 +138,15 @@
     "url": "$BOT3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-3",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "93.12%",
-    "uptimeWeek": "96.68%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "93.11%",
+    "uptimeWeek": "96.84%",
     "uptimeMonth": "97.24%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 2100,
     "timeDay": 1012,
-    "timeWeek": 2791,
+    "timeWeek": 2907,
     "timeMonth": 3094,
     "timeYear": 2100,
     "dailyMinutesDown": {
@@ -191,7 +191,7 @@
       "2022-04-04": 18,
       "2022-04-02": 83,
       "2022-04-01": 298,
-      "2022-03-31": 76
+      "2022-03-31": 57
     }
   },
   {
