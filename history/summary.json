@@ -75,18 +75,19 @@
     "url": "$BOT2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "95.66%",
-    "uptimeYear": "99.00%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "95.65%",
+    "uptimeYear": "99.01%",
     "time": 2406,
     "timeDay": 6021,
     "timeWeek": 2659,
     "timeMonth": 2818,
     "timeYear": 2406,
     "dailyMinutesDown": {
+      "2022-06-15": 1,
       "2022-06-13": 43,
       "2022-06-09": 89,
       "2022-06-08": 172,
@@ -132,7 +133,7 @@
       "2022-04-01": 213,
       "2022-03-31": 113,
       "2022-03-30": 155,
-      "2022-03-29": 74
+      "2022-03-29": 52
     }
   },
   {
@@ -149,7 +150,7 @@
     "time": 2118,
     "timeDay": 244,
     "timeWeek": 3716,
-    "timeMonth": 3094,
+    "timeMonth": 3122,
     "timeYear": 2118,
     "dailyMinutesDown": {
       "2022-06-10": 116,
@@ -203,9 +204,9 @@
     "slug": "happy-vibes-bot-4",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "97.46%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "97.02%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "97.05%",
     "uptimeYear": "99.14%",
     "time": 1943,
     "timeDay": 3194,
@@ -213,7 +214,6 @@
     "timeMonth": 3441,
     "timeYear": 1943,
     "dailyMinutesDown": {
-      "2022-06-15": 11,
       "2022-06-14": 26,
       "2022-06-10": 99,
       "2022-06-07": 65,
@@ -255,7 +255,8 @@
       "2022-04-04": 46,
       "2022-04-02": 105,
       "2022-04-01": 356,
-      "2022-03-31": 202
+      "2022-03-31": 202,
+      "2022-03-30": 19
     }
   },
   {
@@ -266,12 +267,12 @@
     "status": "up",
     "uptime": "98.86%",
     "uptimeDay": "89.20%",
-    "uptimeWeek": "92.79%",
+    "uptimeWeek": "93.49%",
     "uptimeMonth": "95.21%",
     "uptimeYear": "98.86%",
     "time": 2389,
     "timeDay": 1535,
-    "timeWeek": 2854,
+    "timeWeek": 1668,
     "timeMonth": 2727,
     "timeYear": 2389,
     "dailyMinutesDown": {
