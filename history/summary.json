@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "98.66%",
     "uptimeDay": "95.97%",
-    "uptimeWeek": "83.57%",
+    "uptimeWeek": "85.94%",
     "uptimeMonth": "91.62%",
     "uptimeYear": "98.66%",
     "time": 2293,
@@ -78,12 +78,12 @@
     "status": "up",
     "uptime": "99.00%",
     "uptimeDay": "97.78%",
-    "uptimeWeek": "98.85%",
+    "uptimeWeek": "99.26%",
     "uptimeMonth": "95.58%",
     "uptimeYear": "99.00%",
     "time": 2397,
-    "timeDay": 1164,
-    "timeWeek": 1392,
+    "timeDay": 1361,
+    "timeWeek": 1461,
     "timeMonth": 2791,
     "timeYear": 2397,
     "dailyMinutesDown": {
@@ -143,17 +143,16 @@
     "slug": "happy-vibes-bot-3",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "96.15%",
-    "uptimeWeek": "97.39%",
-    "uptimeMonth": "97.42%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "97.44%",
     "uptimeYear": "99.14%",
     "time": 2118,
     "timeDay": 2219,
-    "timeWeek": 3668,
-    "timeMonth": 2970,
+    "timeWeek": 2544,
+    "timeMonth": 2999,
     "timeYear": 2118,
     "dailyMinutesDown": {
-      "2022-06-16": 7,
       "2022-06-15": 48,
       "2022-06-10": 116,
       "2022-06-09": 92,
@@ -195,7 +194,7 @@
       "2022-04-05": 136,
       "2022-04-04": 18,
       "2022-04-02": 83,
-      "2022-04-01": 76
+      "2022-04-01": 112
     }
   },
   {
@@ -265,18 +264,19 @@
     "url": "$BOT5",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "96.75%",
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "96.72%",
     "uptimeWeek": "93.56%",
     "uptimeMonth": "95.10%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.87%",
     "time": 2404,
     "timeDay": 4825,
     "timeWeek": 2537,
     "timeMonth": 2852,
     "timeYear": 2404,
     "dailyMinutesDown": {
+      "2022-06-16": 0,
       "2022-06-15": 178,
       "2022-06-14": 25,
       "2022-06-12": 205,
@@ -322,7 +322,7 @@
       "2022-04-01": 152,
       "2022-03-31": 159,
       "2022-03-30": 248,
-      "2022-03-29": 114
+      "2022-03-29": 52
     }
   }
 ]
