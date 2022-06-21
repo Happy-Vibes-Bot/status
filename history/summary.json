@@ -4,18 +4,19 @@
     "url": "$BOT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "93.01%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "93.00%",
     "uptimeYear": "98.68%",
-    "time": 2296,
-    "timeDay": 329,
-    "timeWeek": 2659,
-    "timeMonth": 2868,
-    "timeYear": 2296,
+    "time": 2308,
+    "timeDay": 4339,
+    "timeWeek": 3100,
+    "timeMonth": 2950,
+    "timeYear": 2308,
     "dailyMinutesDown": {
+      "2022-06-21": 2,
       "2022-06-19": 20,
       "2022-06-17": 60,
       "2022-06-15": 58,
@@ -67,7 +68,7 @@
       "2022-04-09": 33,
       "2022-04-08": 40,
       "2022-04-06": 401,
-      "2022-04-05": 261
+      "2022-04-05": 227
     }
   },
   {
@@ -75,19 +76,19 @@
     "url": "$BOT2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "96.33%",
-    "uptimeYear": "98.99%",
-    "time": 2375,
-    "timeDay": 237,
-    "timeWeek": 1593,
-    "timeMonth": 2921,
-    "timeYear": 2375,
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "97.20%",
+    "uptimeMonth": "96.32%",
+    "uptimeYear": "99.00%",
+    "time": 2381,
+    "timeDay": 2500,
+    "timeWeek": 1829,
+    "timeMonth": 2966,
+    "timeYear": 2381,
     "dailyMinutesDown": {
-      "2022-06-21": 20,
+      "2022-06-21": 22,
       "2022-06-20": 60,
       "2022-06-18": 62,
       "2022-06-17": 81,
@@ -137,7 +138,7 @@
       "2022-04-02": 25,
       "2022-04-01": 213,
       "2022-03-31": 113,
-      "2022-03-30": 83
+      "2022-03-30": 63
     }
   },
   {
@@ -207,9 +208,9 @@
     "url": "$BOT4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "97.42%",
+    "uptimeDay": "97.39%",
     "uptimeWeek": "98.59%",
     "uptimeMonth": "97.79%",
     "uptimeYear": "99.17%",
@@ -264,7 +265,7 @@
       "2022-04-04": 46,
       "2022-04-02": 105,
       "2022-04-01": 356,
-      "2022-03-31": 76
+      "2022-03-31": 57
     }
   },
   {
