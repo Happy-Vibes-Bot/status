@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
     "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.78%",
+    "uptime": "98.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.77%",
     "time": 2335,
     "timeDay": 248,
     "timeWeek": 1199,
     "timeMonth": 2953,
     "timeYear": 2335,
     "dailyMinutesDown": {
-      "2022-07-11": 6,
       "2022-07-08": 16,
       "2022-07-05": 17,
       "2022-07-01": 53,
@@ -74,7 +73,7 @@
       "2022-04-11": 72,
       "2022-04-09": 33,
       "2022-04-08": 40,
-      "2022-04-06": 284
+      "2022-04-06": 345
     }
   },
   {
