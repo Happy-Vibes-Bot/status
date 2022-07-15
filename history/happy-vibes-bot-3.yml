@@ -1,7 +1,7 @@
 url: $BOT3
-status: up
-code: 200
-responseTime: 399
-lastUpdated: 2022-07-15T07:28:39.803Z
+status: down
+code: 429
+responseTime: 21175
+lastUpdated: 2022-07-15T08:11:05.004Z
 startTime: Wed Aug 11 2021 17:48:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
