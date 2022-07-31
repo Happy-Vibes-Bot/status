@@ -228,9 +228,9 @@
     "url": "$BOT4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "95.32%",
+    "uptimeDay": "95.30%",
     "uptimeWeek": "99.01%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "99.26%",
@@ -240,6 +240,7 @@
     "timeMonth": 1544,
     "timeYear": 1900,
     "dailyMinutesDown": {
+      "2022-07-31": 0,
       "2022-07-30": 67,
       "2022-07-29": 17,
       "2022-07-26": 15,
@@ -299,7 +300,7 @@
       "2022-04-09": 33,
       "2022-04-08": 24,
       "2022-04-07": 19,
-      "2022-04-06": 53
+      "2022-04-06": 24
     }
   },
   {
