@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "98.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.48%",
+    "uptimeWeek": "95.66%",
     "uptimeMonth": "97.14%",
     "uptimeYear": "98.91%",
     "time": 2340,
-    "timeDay": 334,
-    "timeWeek": 2210,
+    "timeDay": 361,
+    "timeWeek": 2309,
     "timeMonth": 2402,
     "timeYear": 2328,
     "dailyMinutesDown": {
@@ -86,9 +86,9 @@
     "slug": "happy-vibes-bot-2",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "91.53%",
-    "uptimeWeek": "96.83%",
-    "uptimeMonth": "97.61%",
+    "uptimeDay": "92.48%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "97.64%",
     "uptimeYear": "99.15%",
     "time": 2402,
     "timeDay": 371,
@@ -96,7 +96,7 @@
     "timeMonth": 3090,
     "timeYear": 2411,
     "dailyMinutesDown": {
-      "2022-08-14": 122,
+      "2022-08-14": 108,
       "2022-08-13": 0,
       "2022-08-11": 40,
       "2022-08-10": 18,
@@ -156,7 +156,8 @@
       "2022-04-13": 19,
       "2022-04-12": 41,
       "2022-04-11": 76,
-      "2022-04-09": 33
+      "2022-04-09": 33,
+      "2022-04-08": 40
     }
   },
   {
@@ -164,15 +165,15 @@
     "url": "$BOT3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-3",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "96.81%",
+    "uptimeDay": "94.90%",
+    "uptimeWeek": "96.97%",
     "uptimeMonth": "94.17%",
     "uptimeYear": "98.97%",
     "time": 2141,
     "timeDay": 11324,
-    "timeWeek": 4312,
+    "timeWeek": 4554,
     "timeMonth": 2457,
     "timeYear": 2152,
     "dailyMinutesDown": {
@@ -228,8 +229,7 @@
       "2022-04-22": 56,
       "2022-04-21": 84,
       "2022-04-20": 146,
-      "2022-04-17": 250,
-      "2022-04-16": 27
+      "2022-04-17": 250
     }
   },
   {
@@ -246,7 +246,7 @@
     "time": 2036,
     "timeDay": 4625,
     "timeWeek": 3490,
-    "timeMonth": 3227,
+    "timeMonth": 3266,
     "timeYear": 2047,
     "dailyMinutesDown": {
       "2022-08-13": 26,
