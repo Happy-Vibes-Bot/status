@@ -93,7 +93,7 @@
     "time": 2404,
     "timeDay": 314,
     "timeWeek": 5186,
-    "timeMonth": 3097,
+    "timeMonth": 3124,
     "timeYear": 2413,
     "dailyMinutesDown": {
       "2022-08-14": 108,
@@ -319,12 +319,12 @@
     "url": "$BOT5",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "94.15%",
-    "uptimeWeek": "95.83%",
+    "uptimeDay": "95.63%",
+    "uptimeWeek": "95.82%",
     "uptimeMonth": "97.99%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.18%",
     "time": 2401,
     "timeDay": 300,
     "timeWeek": 1618,
@@ -391,8 +391,7 @@
       "2022-04-12": 32,
       "2022-04-11": 59,
       "2022-04-09": 33,
-      "2022-04-08": 15,
-      "2022-04-07": 20
+      "2022-04-08": 15
     }
   }
 ]
