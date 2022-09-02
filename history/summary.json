@@ -4,10 +4,10 @@
     "url": "$BOT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "94.38%",
-    "uptimeWeek": "81.86%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "81.98%",
     "uptimeMonth": "93.49%",
     "uptimeYear": "98.79%",
     "time": 2353,
@@ -16,7 +16,7 @@
     "timeMonth": 2451,
     "timeYear": 2410,
     "dailyMinutesDown": {
-      "2022-09-02": 29,
+      "2022-09-02": 31,
       "2022-09-01": 697,
       "2022-08-31": 294,
       "2022-08-30": 32,
@@ -74,8 +74,7 @@
       "2022-05-31": 17,
       "2022-05-30": 80,
       "2022-05-29": 154,
-      "2022-05-28": 178,
-      "2022-05-27": 31
+      "2022-05-28": 178
     }
   },
   {
@@ -86,8 +85,8 @@
     "status": "down",
     "uptime": "98.37%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "52.61%",
-    "uptimeMonth": "86.91%",
+    "uptimeWeek": "52.40%",
+    "uptimeMonth": "86.86%",
     "uptimeYear": "98.27%",
     "time": 2396,
     "timeDay": 0,
@@ -95,7 +94,7 @@
     "timeMonth": 2890,
     "timeYear": 2379,
     "dailyMinutesDown": {
-      "2022-09-02": 1368,
+      "2022-09-02": 1389,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 383,
@@ -331,18 +330,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-5",
     "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "87.96%",
-    "uptimeMonth": "92.87%",
-    "uptimeYear": "98.99%",
+    "uptime": "99.04%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "88.15%",
+    "uptimeMonth": "92.90%",
+    "uptimeYear": "98.98%",
     "time": 2408,
     "timeDay": 1530,
-    "timeWeek": 2837,
+    "timeWeek": 2922,
     "timeMonth": 2263,
     "timeYear": 2505,
     "dailyMinutesDown": {
-      "2022-09-02": 44,
+      "2022-09-02": 33,
       "2022-09-01": 255,
       "2022-08-31": 173,
       "2022-08-30": 221,
@@ -398,7 +397,8 @@
       "2022-05-26": 63,
       "2022-05-25": 79,
       "2022-05-24": 58,
-      "2022-05-23": 77
+      "2022-05-23": 77,
+      "2022-05-22": 64
     }
   }
 ]
