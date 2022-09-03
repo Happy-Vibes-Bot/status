@@ -4,11 +4,11 @@
     "url": "$BOT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "82.93%",
-    "uptimeMonth": "93.46%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "83.87%",
+    "uptimeMonth": "93.45%",
     "uptimeYear": "98.79%",
     "time": 2351,
     "timeDay": 328,
@@ -16,6 +16,7 @@
     "timeMonth": 2454,
     "timeYear": 2410,
     "dailyMinutesDown": {
+      "2022-09-03": 5,
       "2022-09-02": 44,
       "2022-09-01": 697,
       "2022-08-31": 294,
@@ -74,7 +75,7 @@
       "2022-05-31": 17,
       "2022-05-30": 80,
       "2022-05-29": 154,
-      "2022-05-28": 178
+      "2022-05-28": 155
     }
   },
   {
@@ -83,18 +84,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-2",
     "status": "down",
-    "uptime": "98.35%",
+    "uptime": "98.33%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "51.32%",
-    "uptimeMonth": "86.61%",
-    "uptimeYear": "98.24%",
+    "uptimeWeek": "50.79%",
+    "uptimeMonth": "86.39%",
+    "uptimeYear": "98.23%",
     "time": 2396,
     "timeDay": 0,
     "timeWeek": 1398,
     "timeMonth": 2927,
     "timeYear": 2381,
     "dailyMinutesDown": {
-      "2022-09-03": 59,
+      "2022-09-03": 158,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
@@ -168,10 +169,10 @@
     "url": "$BOT3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-3",
-    "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "94.80%",
-    "uptimeWeek": "95.15%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "94.64%",
+    "uptimeWeek": "95.13%",
     "uptimeMonth": "89.76%",
     "uptimeYear": "98.72%",
     "time": 2268,
@@ -180,6 +181,7 @@
     "timeMonth": 3807,
     "timeYear": 2342,
     "dailyMinutesDown": {
+      "2022-09-03": 2,
       "2022-09-02": 75,
       "2022-09-01": 356,
       "2022-08-31": 31,
@@ -240,7 +242,7 @@
       "2022-05-06": 65,
       "2022-05-05": 19,
       "2022-05-03": 37,
-      "2022-04-30": 97
+      "2022-04-30": 68
     }
   },
   {
@@ -248,18 +250,19 @@
     "url": "$BOT4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "92.76%",
-    "uptimeWeek": "90.55%",
-    "uptimeMonth": "93.60%",
-    "uptimeYear": "99.05%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "92.66%",
+    "uptimeWeek": "90.54%",
+    "uptimeMonth": "93.59%",
+    "uptimeYear": "99.07%",
     "time": 2042,
     "timeDay": 387,
     "timeWeek": 3001,
     "timeMonth": 3125,
     "timeYear": 2105,
     "dailyMinutesDown": {
+      "2022-09-03": 1,
       "2022-09-02": 104,
       "2022-09-01": 215,
       "2022-08-31": 345,
@@ -322,7 +325,7 @@
       "2022-05-25": 75,
       "2022-05-24": 18,
       "2022-05-23": 83,
-      "2022-05-22": 128
+      "2022-05-22": 39
     }
   },
   {
@@ -330,18 +333,19 @@
     "url": "$BOT5",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "97.69%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "97.66%",
     "uptimeWeek": "88.15%",
     "uptimeMonth": "92.90%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "98.99%",
     "time": 2405,
     "timeDay": 1463,
     "timeWeek": 2914,
     "timeMonth": 2262,
     "timeYear": 2505,
     "dailyMinutesDown": {
+      "2022-09-03": 0,
       "2022-09-02": 33,
       "2022-09-01": 255,
       "2022-08-31": 173,
@@ -398,8 +402,7 @@
       "2022-05-26": 63,
       "2022-05-25": 79,
       "2022-05-24": 58,
-      "2022-05-23": 77,
-      "2022-05-22": 64
+      "2022-05-23": 77
     }
   }
 ]
