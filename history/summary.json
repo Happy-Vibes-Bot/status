@@ -4,11 +4,11 @@
     "url": "$BOT1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "87.73%",
-    "uptimeWeek": "91.41%",
-    "uptimeMonth": "92.48%",
+    "uptimeDay": "87.55%",
+    "uptimeWeek": "91.39%",
+    "uptimeMonth": "92.50%",
     "uptimeYear": "98.76%",
     "time": 2421,
     "timeDay": 6227,
@@ -16,7 +16,7 @@
     "timeMonth": 3160,
     "timeYear": 2491,
     "dailyMinutesDown": {
-      "2022-09-09": 52,
+      "2022-09-09": 55,
       "2022-09-08": 125,
       "2022-09-07": 188,
       "2022-09-06": 195,
@@ -73,8 +73,7 @@
       "2022-06-14": 43,
       "2022-06-13": 42,
       "2022-06-10": 429,
-      "2022-06-09": 1185,
-      "2022-06-07": 16
+      "2022-06-09": 1185
     }
   },
   {
@@ -86,7 +85,7 @@
     "uptime": "96.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.27%",
+    "uptimeMonth": "66.25%",
     "uptimeYear": "96.52%",
     "time": 2396,
     "timeDay": 0,
@@ -94,7 +93,7 @@
     "timeMonth": 2216,
     "timeYear": 2421,
     "dailyMinutesDown": {
-      "2022-09-09": 474,
+      "2022-09-09": 484,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
@@ -175,18 +174,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-3",
     "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "61.60%",
-    "uptimeWeek": "78.19%",
-    "uptimeMonth": "89.37%",
-    "uptimeYear": "98.41%",
+    "uptime": "98.51%",
+    "uptimeDay": "62.88%",
+    "uptimeWeek": "78.29%",
+    "uptimeMonth": "89.39%",
+    "uptimeYear": "98.39%",
     "time": 2365,
     "timeDay": 4241,
     "timeWeek": 6252,
     "timeMonth": 4618,
     "timeYear": 2464,
     "dailyMinutesDown": {
-      "2022-09-09": 109,
+      "2022-09-09": 100,
       "2022-09-08": 918,
       "2022-09-07": 221,
       "2022-09-06": 482,
@@ -245,7 +244,7 @@
       "2022-05-26": 53,
       "2022-05-23": 49,
       "2022-05-22": 100,
-      "2022-05-18": 122
+      "2022-05-18": 189
     }
   },
   {
@@ -338,8 +337,8 @@
     "uptimeMonth": "91.47%",
     "uptimeYear": "98.90%",
     "time": 2437,
-    "timeDay": 1296,
-    "timeWeek": 3350,
+    "timeDay": 1279,
+    "timeWeek": 3264,
     "timeMonth": 2628,
     "timeYear": 2542,
     "dailyMinutesDown": {
