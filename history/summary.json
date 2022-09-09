@@ -6,17 +6,17 @@
     "slug": "happy-vibes-bot-1",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "86.48%",
-    "uptimeWeek": "90.29%",
-    "uptimeMonth": "92.29%",
-    "uptimeYear": "99.06%",
+    "uptimeDay": "87.14%",
+    "uptimeWeek": "90.39%",
+    "uptimeMonth": "92.31%",
+    "uptimeYear": "99.05%",
     "time": 2420,
     "timeDay": 6660,
     "timeWeek": 3982,
     "timeMonth": 3003,
     "timeYear": 2491,
     "dailyMinutesDown": {
-      "2022-09-09": 165,
+      "2022-09-09": 155,
       "2022-09-08": 125,
       "2022-09-07": 188,
       "2022-09-06": 195,
@@ -70,7 +70,8 @@
       "2022-06-19": 20,
       "2022-06-17": 60,
       "2022-06-15": 58,
-      "2022-06-14": 43
+      "2022-06-14": 43,
+      "2022-06-13": 42
     }
   },
   {
@@ -82,7 +83,7 @@
     "uptime": "96.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.31%",
+    "uptimeMonth": "65.27%",
     "uptimeYear": "96.44%",
     "time": 2396,
     "timeDay": 0,
@@ -90,7 +91,7 @@
     "timeMonth": 2216,
     "timeYear": 2421,
     "dailyMinutesDown": {
-      "2022-09-09": 898,
+      "2022-09-09": 914,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
@@ -170,19 +171,19 @@
     "url": "$BOT3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-3",
-    "status": "up",
+    "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "86.26%",
-    "uptimeWeek": "77.59%",
+    "uptimeDay": "86.22%",
+    "uptimeWeek": "77.58%",
     "uptimeMonth": "89.23%",
-    "uptimeYear": "98.41%",
+    "uptimeYear": "98.42%",
     "time": 2362,
     "timeDay": 3962,
     "timeWeek": 6092,
     "timeMonth": 4545,
     "timeYear": 2461,
     "dailyMinutesDown": {
-      "2022-09-09": 171,
+      "2022-09-09": 172,
       "2022-09-08": 918,
       "2022-09-07": 221,
       "2022-09-06": 482,
@@ -240,8 +241,7 @@
       "2022-05-27": 62,
       "2022-05-26": 53,
       "2022-05-23": 49,
-      "2022-05-22": 100,
-      "2022-05-18": 17
+      "2022-05-22": 100
     }
   },
   {
