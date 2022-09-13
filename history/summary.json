@@ -75,9 +75,9 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-2",
     "status": "up",
-    "uptime": "96.70%",
+    "uptime": "96.71%",
     "uptimeDay": "90.86%",
-    "uptimeWeek": "48.60%",
+    "uptimeWeek": "49.00%",
     "uptimeMonth": "64.62%",
     "uptimeYear": "96.41%",
     "time": 2371,
@@ -167,12 +167,12 @@
     "slug": "happy-vibes-bot-3",
     "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "94.53%",
+    "uptimeDay": "95.89%",
     "uptimeWeek": "82.09%",
     "uptimeMonth": "88.62%",
     "uptimeYear": "98.39%",
     "time": 2381,
-    "timeDay": 2731,
+    "timeDay": 3224,
     "timeWeek": 4262,
     "timeMonth": 4551,
     "timeYear": 2491,
@@ -243,11 +243,11 @@
     "url": "$BOT4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "85.18%",
-    "uptimeWeek": "88.15%",
-    "uptimeMonth": "92.09%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "85.03%",
+    "uptimeWeek": "88.13%",
+    "uptimeMonth": "92.08%",
     "uptimeYear": "98.94%",
     "time": 2128,
     "timeDay": 1079,
@@ -255,7 +255,7 @@
     "timeMonth": 2978,
     "timeYear": 2203,
     "dailyMinutesDown": {
-      "2022-09-13": 119,
+      "2022-09-13": 121,
       "2022-09-12": 135,
       "2022-09-11": 86,
       "2022-09-09": 165,
@@ -308,8 +308,7 @@
       "2022-06-28": 16,
       "2022-06-27": 20,
       "2022-06-25": 139,
-      "2022-06-24": 17,
-      "2022-06-22": 18
+      "2022-06-24": 17
     }
   },
   {
@@ -317,10 +316,10 @@
     "url": "$BOT5",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "83.20%",
-    "uptimeWeek": "91.56%",
+    "uptimeDay": "83.16%",
+    "uptimeWeek": "91.55%",
     "uptimeMonth": "90.48%",
     "uptimeYear": "98.98%",
     "time": 2444,
@@ -329,7 +328,7 @@
     "timeMonth": 2674,
     "timeYear": 2558,
     "dailyMinutesDown": {
-      "2022-09-13": 27,
+      "2022-09-13": 28,
       "2022-09-12": 214,
       "2022-09-11": 89,
       "2022-09-10": 202,
@@ -380,8 +379,7 @@
       "2022-06-22": 18,
       "2022-06-21": 36,
       "2022-06-19": 47,
-      "2022-06-15": 178,
-      "2022-06-14": 25
+      "2022-06-15": 178
     }
   }
 ]
