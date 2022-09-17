@@ -6,9 +6,9 @@
     "slug": "happy-vibes-bot-1",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "86.89%",
-    "uptimeWeek": "88.96%",
-    "uptimeMonth": "89.97%",
+    "uptimeDay": "87.40%",
+    "uptimeWeek": "89.93%",
+    "uptimeMonth": "89.99%",
     "uptimeYear": "98.97%",
     "time": 2462,
     "timeDay": 2313,
@@ -16,7 +16,7 @@
     "timeMonth": 3268,
     "timeYear": 2559,
     "dailyMinutesDown": {
-      "2022-09-16": 189,
+      "2022-09-16": 182,
       "2022-09-15": 60,
       "2022-09-14": 100,
       "2022-09-13": 243,
@@ -58,7 +58,7 @@
       "2022-07-30": 65,
       "2022-07-26": 19,
       "2022-07-24": 17,
-      "2022-07-23": 29
+      "2022-07-23": 45
     }
   },
   {
@@ -157,13 +157,13 @@
     "status": "up",
     "uptime": "98.54%",
     "uptimeDay": "98.94%",
-    "uptimeWeek": "94.77%",
+    "uptimeWeek": "95.44%",
     "uptimeMonth": "88.54%",
     "uptimeYear": "98.39%",
     "time": 2420,
     "timeDay": 8343,
     "timeWeek": 4527,
-    "timeMonth": 4436,
+    "timeMonth": 4469,
     "timeYear": 2543,
     "dailyMinutesDown": {
       "2022-09-16": 15,
@@ -302,13 +302,13 @@
     "status": "up",
     "uptime": "99.09%",
     "uptimeDay": "98.68%",
-    "uptimeWeek": "92.33%",
-    "uptimeMonth": "90.55%",
+    "uptimeWeek": "93.22%",
+    "uptimeMonth": "90.59%",
     "uptimeYear": "99.00%",
     "time": 2434,
     "timeDay": 3786,
     "timeWeek": 2425,
-    "timeMonth": 2779,
+    "timeMonth": 2743,
     "timeYear": 2552,
     "dailyMinutesDown": {
       "2022-09-16": 19,
