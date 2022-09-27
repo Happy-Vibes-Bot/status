@@ -7,8 +7,8 @@
     "status": "up",
     "uptime": "98.96%",
     "uptimeDay": "90.91%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "88.85%",
+    "uptimeWeek": "95.71%",
+    "uptimeMonth": "88.87%",
     "uptimeYear": "98.83%",
     "time": 2398,
     "timeDay": 1005,
@@ -68,12 +68,12 @@
     "status": "up",
     "uptime": "96.83%",
     "uptimeDay": "96.10%",
-    "uptimeWeek": "96.48%",
+    "uptimeWeek": "96.78%",
     "uptimeMonth": "63.31%",
     "uptimeYear": "96.42%",
     "time": 2377,
     "timeDay": 232,
-    "timeWeek": 433,
+    "timeWeek": 429,
     "timeMonth": 1865,
     "timeYear": 2411,
     "dailyMinutesDown": {
@@ -231,17 +231,16 @@
     "slug": "happy-vibes-bot-4",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "91.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "91.47%",
     "uptimeYear": "98.87%",
     "time": 2159,
     "timeDay": 624,
     "timeWeek": 2106,
     "timeMonth": 3005,
-    "timeYear": 2232,
+    "timeYear": 2234,
     "dailyMinutesDown": {
-      "2022-09-27": 8,
       "2022-09-25": 24,
       "2022-09-24": 19,
       "2022-09-23": 36,
@@ -288,7 +287,8 @@
       "2022-08-02": 110,
       "2022-07-31": 138,
       "2022-07-30": 67,
-      "2022-07-29": 17
+      "2022-07-29": 17,
+      "2022-07-26": 15
     }
   },
   {
@@ -296,19 +296,19 @@
     "url": "$BOT5",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "88.96%",
-    "uptimeWeek": "93.82%",
+    "uptimeDay": "88.91%",
+    "uptimeWeek": "93.81%",
     "uptimeMonth": "91.07%",
     "uptimeYear": "98.89%",
-    "time": 2452,
+    "time": 2451,
     "timeDay": 438,
     "timeWeek": 380,
     "timeMonth": 2484,
     "timeYear": 2548,
     "dailyMinutesDown": {
-      "2022-09-27": 159,
+      "2022-09-27": 160,
       "2022-09-26": 45,
       "2022-09-25": 4,
       "2022-09-24": 279,
@@ -354,7 +354,7 @@
       "2022-08-08": 21,
       "2022-08-07": 88,
       "2022-08-06": 38,
-      "2022-08-04": 42
+      "2022-08-04": 20
     }
   }
 ]
