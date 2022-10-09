@@ -6,17 +6,16 @@
     "slug": "happy-vibes-bot-1",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "93.49%",
-    "uptimeMonth": "88.73%",
-    "uptimeYear": "98.69%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "93.62%",
+    "uptimeMonth": "88.79%",
+    "uptimeYear": "98.68%",
     "time": 2438,
     "timeDay": 250,
     "timeWeek": 640,
     "timeMonth": 2053,
     "timeYear": 2466,
     "dailyMinutesDown": {
-      "2022-10-09": 13,
       "2022-10-08": 16,
       "2022-10-07": 30,
       "2022-10-06": 144,
@@ -55,7 +54,8 @@
       "2022-09-01": 697,
       "2022-08-31": 294,
       "2022-08-30": 32,
-      "2022-08-29": 30
+      "2022-08-29": 30,
+      "2022-08-28": 23
     }
   },
   {
@@ -67,7 +67,7 @@
     "uptime": "96.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.75%",
-    "uptimeMonth": "93.94%",
+    "uptimeMonth": "94.14%",
     "uptimeYear": "96.50%",
     "time": 2337,
     "timeDay": 290,
@@ -147,7 +147,7 @@
     "uptime": "98.58%",
     "uptimeDay": "95.49%",
     "uptimeWeek": "95.11%",
-    "uptimeMonth": "95.50%",
+    "uptimeMonth": "95.52%",
     "uptimeYear": "98.35%",
     "time": 2321,
     "timeDay": 279,
@@ -278,19 +278,19 @@
     "url": "$BOT5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "92.19%",
-    "uptimeWeek": "94.90%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "92.35%",
+    "uptimeWeek": "94.89%",
     "uptimeMonth": "93.63%",
-    "uptimeYear": "98.88%",
-    "time": 2354,
-    "timeDay": 307,
+    "uptimeYear": "98.90%",
+    "time": 2356,
+    "timeDay": 295,
     "timeWeek": 455,
     "timeMonth": 1323,
     "timeYear": 2491,
     "dailyMinutesDown": {
-      "2022-10-09": 83,
+      "2022-10-09": 84,
       "2022-10-08": 77,
       "2022-10-06": 180,
       "2022-10-05": 25,
@@ -335,7 +335,7 @@
       "2022-08-22": 78,
       "2022-08-21": 19,
       "2022-08-19": 19,
-      "2022-08-18": 111
+      "2022-08-18": 17
     }
   }
 ]
