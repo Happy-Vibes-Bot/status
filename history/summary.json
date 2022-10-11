@@ -8,7 +8,7 @@
     "uptime": "98.88%",
     "uptimeDay": "86.22%",
     "uptimeWeek": "93.61%",
-    "uptimeMonth": "89.21%",
+    "uptimeMonth": "89.28%",
     "uptimeYear": "98.69%",
     "time": 2416,
     "timeDay": 527,
@@ -62,18 +62,19 @@
     "url": "$BOT2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
+    "status": "down",
     "uptime": "97.00%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "94.94%",
-    "uptimeYear": "96.50%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "95.06%",
+    "uptimeYear": "96.51%",
     "time": 2310,
     "timeDay": 335,
     "timeWeek": 316,
     "timeMonth": 1460,
     "timeYear": 2350,
     "dailyMinutesDown": {
+      "2022-10-11": 2,
       "2022-10-10": 42,
       "2022-10-07": 4,
       "2022-10-06": 71,
@@ -134,7 +135,7 @@
       "2022-07-22": 22,
       "2022-07-20": 47,
       "2022-07-19": 164,
-      "2022-07-18": 121
+      "2022-07-18": 74
     }
   },
   {
@@ -144,9 +145,9 @@
     "slug": "happy-vibes-bot-3",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "96.38%",
+    "uptimeDay": "96.63%",
     "uptimeWeek": "95.69%",
-    "uptimeMonth": "96.02%",
+    "uptimeMonth": "96.09%",
     "uptimeYear": "98.35%",
     "time": 2323,
     "timeDay": 273,
@@ -216,9 +217,9 @@
     "slug": "happy-vibes-bot-4",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "98.72%",
+    "uptimeDay": "98.87%",
     "uptimeWeek": "95.68%",
-    "uptimeMonth": "94.39%",
+    "uptimeMonth": "94.46%",
     "uptimeYear": "99.00%",
     "time": 2072,
     "timeDay": 395,
@@ -276,11 +277,11 @@
     "url": "$BOT5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
     "uptimeDay": "96.16%",
     "uptimeWeek": "94.64%",
-    "uptimeMonth": "94.07%",
+    "uptimeMonth": "94.14%",
     "uptimeYear": "98.89%",
     "time": 2351,
     "timeDay": 261,
@@ -288,6 +289,7 @@
     "timeMonth": 1256,
     "timeYear": 2470,
     "dailyMinutesDown": {
+      "2022-10-11": 1,
       "2022-10-10": 100,
       "2022-10-09": 127,
       "2022-10-08": 77,
@@ -330,8 +332,7 @@
       "2022-08-26": 31,
       "2022-08-25": 672,
       "2022-08-24": 119,
-      "2022-08-23": 34,
-      "2022-08-22": 34
+      "2022-08-23": 34
     }
   }
 ]
