@@ -4,19 +4,19 @@
     "url": "$BOT1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "83.34%",
-    "uptimeWeek": "89.80%",
-    "uptimeMonth": "90.29%",
-    "uptimeYear": "98.81%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "83.24%",
+    "uptimeWeek": "89.79%",
+    "uptimeMonth": "90.28%",
+    "uptimeYear": "98.82%",
     "time": 2402,
     "timeDay": 346,
     "timeWeek": 1919,
     "timeMonth": 1210,
     "timeYear": 2406,
     "dailyMinutesDown": {
-      "2022-10-19": 237,
+      "2022-10-19": 238,
       "2022-10-18": 251,
       "2022-10-17": 200,
       "2022-10-16": 133,
@@ -51,7 +51,7 @@
       "2022-09-12": 201,
       "2022-09-11": 54,
       "2022-09-10": 240,
-      "2022-09-09": 172
+      "2022-09-09": 122
     }
   },
   {
@@ -59,19 +59,19 @@
     "url": "$BOT2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
-    "uptime": "97.08%",
-    "uptimeDay": "91.02%",
+    "status": "down",
+    "uptime": "97.09%",
+    "uptimeDay": "90.99%",
     "uptimeWeek": "92.49%",
     "uptimeMonth": "95.09%",
     "uptimeYear": "96.53%",
-    "time": 2249,
+    "time": 2251,
     "timeDay": 181,
     "timeWeek": 408,
     "timeMonth": 539,
     "timeYear": 2262,
     "dailyMinutesDown": {
-      "2022-10-19": 107,
+      "2022-10-19": 108,
       "2022-10-18": 231,
       "2022-10-17": 102,
       "2022-10-16": 120,
@@ -124,8 +124,7 @@
       "2022-08-21": 37,
       "2022-08-20": 16,
       "2022-08-18": 23,
-      "2022-08-17": 104,
-      "2022-08-16": 15
+      "2022-08-17": 104
     }
   },
   {
@@ -204,7 +203,7 @@
     "uptimeMonth": "94.97%",
     "uptimeYear": "99.09%",
     "time": 2074,
-    "timeDay": 2634,
+    "timeDay": 3033,
     "timeWeek": 1357,
     "timeMonth": 1101,
     "timeYear": 2118,
@@ -266,7 +265,7 @@
     "time": 2359,
     "timeDay": 8561,
     "timeWeek": 1798,
-    "timeMonth": 796,
+    "timeMonth": 801,
     "timeYear": 2453,
     "dailyMinutesDown": {
       "2022-10-19": 48,
