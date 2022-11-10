@@ -4,9 +4,9 @@
     "url": "$BOT1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "94.46%",
+    "uptimeDay": "94.45%",
     "uptimeWeek": "97.14%",
     "uptimeMonth": "94.22%",
     "uptimeYear": "99.09%",
@@ -54,8 +54,7 @@
       "2022-10-02": 20,
       "2022-10-01": 36,
       "2022-09-30": 1156,
-      "2022-09-29": 229,
-      "2022-09-28": 28
+      "2022-09-29": 229
     }
   },
   {
@@ -125,12 +124,12 @@
     "status": "up",
     "uptime": "99.41%",
     "uptimeDay": "98.92%",
-    "uptimeWeek": "98.21%",
+    "uptimeWeek": "98.33%",
     "uptimeMonth": "94.64%",
     "uptimeYear": "99.26%",
     "time": 2288,
     "timeDay": 260,
-    "timeWeek": 932,
+    "timeWeek": 960,
     "timeMonth": 1038,
     "timeYear": 2409,
     "dailyMinutesDown": {
@@ -254,7 +253,7 @@
     "uptime": "99.35%",
     "uptimeDay": "97.12%",
     "uptimeWeek": "97.82%",
-    "uptimeMonth": "94.29%",
+    "uptimeMonth": "94.32%",
     "uptimeYear": "99.18%",
     "time": 2331,
     "timeDay": 276,
