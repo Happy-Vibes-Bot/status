@@ -4,19 +4,19 @@
     "url": "$BOT1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "94.42%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "94.41%",
     "uptimeYear": "99.12%",
-    "time": 2304,
+    "time": 2305,
     "timeDay": 1247,
     "timeWeek": 621,
     "timeMonth": 1270,
     "timeYear": 2272,
     "dailyMinutesDown": {
-      "2022-11-11": 32,
+      "2022-11-11": 34,
       "2022-11-10": 79,
       "2022-11-09": 55,
       "2022-11-08": 61,
@@ -55,7 +55,7 @@
       "2022-10-02": 20,
       "2022-10-01": 36,
       "2022-09-30": 1156,
-      "2022-09-29": 75
+      "2022-09-29": 45
     }
   },
   {
@@ -130,7 +130,7 @@
     "time": 2273,
     "timeDay": 390,
     "timeWeek": 912,
-    "timeMonth": 1037,
+    "timeMonth": 1023,
     "timeYear": 2403,
     "dailyMinutesDown": {
       "2022-11-11": 67,
@@ -187,12 +187,12 @@
     "uptime": "99.41%",
     "uptimeDay": "97.50%",
     "uptimeWeek": "97.82%",
-    "uptimeMonth": "95.94%",
+    "uptimeMonth": "95.96%",
     "uptimeYear": "99.26%",
     "time": 2072,
     "timeDay": 305,
     "timeWeek": 1448,
-    "timeMonth": 1523,
+    "timeMonth": 1531,
     "timeYear": 2101,
     "dailyMinutesDown": {
       "2022-11-11": 36,
@@ -248,19 +248,19 @@
     "url": "$BOT5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "97.60%",
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "97.59%",
     "uptimeMonth": "94.50%",
-    "uptimeYear": "99.18%",
-    "time": 2331,
+    "uptimeYear": "99.21%",
+    "time": 2333,
     "timeDay": 379,
     "timeWeek": 1719,
     "timeMonth": 1487,
     "timeYear": 2362,
     "dailyMinutesDown": {
-      "2022-11-11": 22,
+      "2022-11-11": 23,
       "2022-11-10": 41,
       "2022-11-09": 63,
       "2022-11-08": 115,
@@ -304,7 +304,7 @@
       "2022-09-23": 47,
       "2022-09-22": 30,
       "2022-09-21": 39,
-      "2022-09-20": 160
+      "2022-09-20": 20
     }
   }
 ]
