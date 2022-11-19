@@ -4,18 +4,19 @@
     "url": "$BOT1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "95.99%",
     "uptimeMonth": "95.76%",
-    "uptimeYear": "99.35%",
-    "time": 2253,
-    "timeDay": 2303,
+    "uptimeYear": "99.36%",
+    "time": 2255,
+    "timeDay": 2835,
     "timeWeek": 1122,
-    "timeMonth": 1082,
+    "timeMonth": 1086,
     "timeYear": 2246,
     "dailyMinutesDown": {
+      "2022-11-19": 0,
       "2022-11-18": 32,
       "2022-11-17": 187,
       "2022-11-16": 119,
@@ -54,8 +55,7 @@
       "2022-10-10": 189,
       "2022-10-08": 16,
       "2022-10-07": 30,
-      "2022-10-06": 144,
-      "2022-10-05": 73
+      "2022-10-06": 144
     }
   },
   {
@@ -183,12 +183,12 @@
     "uptime": "99.47%",
     "uptimeDay": "92.41%",
     "uptimeWeek": "93.63%",
-    "uptimeMonth": "96.22%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "99.33%",
     "time": 2037,
     "timeDay": 437,
     "timeWeek": 996,
-    "timeMonth": 1411,
+    "timeMonth": 1419,
     "timeYear": 2074,
     "dailyMinutesDown": {
       "2022-11-19": 109,
@@ -245,17 +245,17 @@
     "slug": "happy-vibes-bot-5",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "33.11%",
-    "uptimeWeek": "86.17%",
-    "uptimeMonth": "92.95%",
-    "uptimeYear": "99.10%",
+    "uptimeDay": "33.67%",
+    "uptimeWeek": "86.25%",
+    "uptimeMonth": "92.97%",
+    "uptimeYear": "99.09%",
     "time": 2305,
     "timeDay": 2201,
     "timeWeek": 2388,
     "timeMonth": 1696,
     "timeYear": 2376,
     "dailyMinutesDown": {
-      "2022-11-19": 927,
+      "2022-11-19": 919,
       "2022-11-18": 37,
       "2022-11-17": 340,
       "2022-11-16": 21,
@@ -297,7 +297,8 @@
       "2022-10-02": 30,
       "2022-10-01": 85,
       "2022-09-30": 45,
-      "2022-09-29": 54
+      "2022-09-29": 54,
+      "2022-09-28": 15
     }
   }
 ]
