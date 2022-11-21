@@ -4,18 +4,19 @@
     "url": "$BOT1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.49%",
-    "uptimeMonth": "96.36%",
-    "uptimeYear": "99.36%",
-    "time": 2237,
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "96.48%",
+    "uptimeMonth": "96.35%",
+    "uptimeYear": "99.38%",
+    "time": 2238,
     "timeDay": 394,
     "timeWeek": 1169,
     "timeMonth": 1126,
     "timeYear": 2243,
     "dailyMinutesDown": {
+      "2022-11-21": 2,
       "2022-11-19": 17,
       "2022-11-18": 32,
       "2022-11-17": 187,
@@ -54,8 +55,7 @@
       "2022-10-11": 96,
       "2022-10-10": 189,
       "2022-10-08": 16,
-      "2022-10-07": 30,
-      "2022-10-06": 144
+      "2022-10-07": 30
     }
   },
   {
@@ -122,18 +122,19 @@
     "url": "$BOT3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-3",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.39%",
-    "uptimeMonth": "96.48%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "94.37%",
+    "uptimeMonth": "96.50%",
     "uptimeYear": "99.35%",
-    "time": 2232,
-    "timeDay": 400,
+    "time": 2233,
+    "timeDay": 373,
     "timeWeek": 1463,
-    "timeMonth": 1260,
+    "timeMonth": 1266,
     "timeYear": 2368,
     "dailyMinutesDown": {
+      "2022-11-21": 1,
       "2022-11-20": 39,
       "2022-11-19": 40,
       "2022-11-18": 39,
@@ -170,8 +171,7 @@
       "2022-10-10": 52,
       "2022-10-09": 35,
       "2022-10-08": 30,
-      "2022-10-05": 272,
-      "2022-10-04": 45
+      "2022-10-05": 272
     }
   },
   {
@@ -242,19 +242,19 @@
     "url": "$BOT5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "85.85%",
-    "uptimeMonth": "93.15%",
-    "uptimeYear": "99.09%",
-    "time": 2307,
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "85.84%",
+    "uptimeMonth": "93.17%",
+    "uptimeYear": "99.10%",
+    "time": 2308,
     "timeDay": 353,
     "timeWeek": 2386,
-    "timeMonth": 1712,
+    "timeMonth": 1722,
     "timeYear": 2372,
     "dailyMinutesDown": {
-      "2022-11-21": 18,
+      "2022-11-21": 19,
       "2022-11-20": 54,
       "2022-11-19": 922,
       "2022-11-18": 37,
@@ -297,7 +297,7 @@
       "2022-10-03": 119,
       "2022-10-02": 30,
       "2022-10-01": 85,
-      "2022-09-30": 45
+      "2022-09-30": 23
     }
   }
 ]
