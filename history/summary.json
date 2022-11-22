@@ -12,7 +12,7 @@
     "uptimeYear": "99.40%",
     "time": 2253,
     "timeDay": 742,
-    "timeWeek": 1183,
+    "timeWeek": 1200,
     "timeMonth": 1142,
     "timeYear": 2234,
     "dailyMinutesDown": {
@@ -62,9 +62,9 @@
     "url": "$BOT2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "85.17%",
+    "uptimeDay": "85.15%",
     "uptimeWeek": "93.58%",
     "uptimeMonth": "95.20%",
     "uptimeYear": "99.35%",
@@ -112,7 +112,7 @@
       "2022-10-10": 42,
       "2022-10-07": 4,
       "2022-10-06": 71,
-      "2022-10-05": 46
+      "2022-10-05": 19
     }
   },
   {
