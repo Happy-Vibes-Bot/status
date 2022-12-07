@@ -6,17 +6,16 @@
     "slug": "happy-vibes-bot-1",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.87%",
+    "uptimeYear": "99.40%",
     "time": 2179,
     "timeDay": 162,
-    "timeWeek": 350,
+    "timeWeek": 355,
     "timeMonth": 840,
     "timeYear": 2177,
     "dailyMinutesDown": {
-      "2022-12-06": 8,
       "2022-11-23": 18,
       "2022-11-22": 173,
       "2022-11-21": 18,
@@ -54,7 +53,8 @@
       "2022-10-17": 200,
       "2022-10-16": 133,
       "2022-10-14": 139,
-      "2022-10-13": 69
+      "2022-10-13": 69,
+      "2022-10-11": 20
     }
   },
   {
