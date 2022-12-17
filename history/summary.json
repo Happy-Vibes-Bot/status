@@ -123,18 +123,19 @@
     "url": "$BOT3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.05%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 2166,
     "timeDay": 304,
     "timeWeek": 313,
     "timeMonth": 913,
     "timeYear": 2297,
     "dailyMinutesDown": {
+      "2022-12-17": 0,
       "2022-12-12": 28,
       "2022-12-08": 19,
       "2022-12-01": 17,
@@ -174,8 +175,7 @@
       "2022-10-12": 19,
       "2022-10-11": 50,
       "2022-10-10": 52,
-      "2022-10-09": 35,
-      "2022-10-08": 30
+      "2022-10-09": 35
     }
   },
   {
@@ -185,9 +185,9 @@
     "slug": "happy-vibes-bot-4",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "98.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "99.35%",
     "time": 1985,
     "timeDay": 517,
@@ -195,7 +195,6 @@
     "timeMonth": 1171,
     "timeYear": 2031,
     "dailyMinutesDown": {
-      "2022-12-17": 6,
       "2022-12-06": 19,
       "2022-12-04": 74,
       "2022-12-03": 16,
@@ -238,7 +237,7 @@
       "2022-10-07": 31,
       "2022-10-06": 21,
       "2022-10-05": 39,
-      "2022-10-04": 37
+      "2022-10-04": 61
     }
   },
   {
@@ -247,18 +246,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-5",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "96.46%",
-    "uptimeYear": "99.08%",
+    "uptime": "99.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "96.47%",
+    "uptimeYear": "99.07%",
     "time": 2248,
     "timeDay": 215,
     "timeWeek": 274,
     "timeMonth": 1273,
     "timeYear": 2306,
     "dailyMinutesDown": {
-      "2022-12-17": 4,
       "2022-12-12": 15,
       "2022-12-08": 43,
       "2022-12-03": 70,
@@ -303,7 +301,7 @@
       "2022-10-06": 180,
       "2022-10-05": 25,
       "2022-10-04": 30,
-      "2022-10-03": 54
+      "2022-10-03": 91
     }
   }
 ]
