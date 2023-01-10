@@ -75,7 +75,7 @@
     "uptimeYear": "99.37%",
     "time": 2088,
     "timeDay": 10443,
-    "timeWeek": 4041,
+    "timeWeek": 3821,
     "timeMonth": 2606,
     "timeYear": 2102,
     "dailyMinutesDown": {
@@ -129,12 +129,12 @@
     "status": "up",
     "uptime": "99.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.56%",
+    "uptimeWeek": "96.89%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "99.40%",
     "time": 2230,
     "timeDay": 404,
-    "timeWeek": 3660,
+    "timeWeek": 3829,
     "timeMonth": 1989,
     "timeYear": 2342,
     "dailyMinutesDown": {
@@ -188,18 +188,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-4",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.36%",
+    "uptime": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.35%",
     "time": 1962,
     "timeDay": 308,
     "timeWeek": 2040,
-    "timeMonth": 1925,
+    "timeMonth": 1950,
     "timeYear": 2066,
     "dailyMinutesDown": {
-      "2023-01-10": 8,
       "2023-01-08": 195,
       "2023-01-06": 20,
       "2022-12-06": 19,
@@ -240,7 +239,7 @@
       "2022-10-12": 38,
       "2022-10-11": 28,
       "2022-10-10": 175,
-      "2022-10-08": 21
+      "2022-10-08": 40
     }
   },
   {
@@ -248,18 +247,19 @@
     "url": "$BOT5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.66%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.65%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.11%",
     "time": 2218,
     "timeDay": 311,
     "timeWeek": 2377,
-    "timeMonth": 1479,
+    "timeMonth": 1497,
     "timeYear": 2324,
     "dailyMinutesDown": {
+      "2023-01-10": 1,
       "2023-01-08": 113,
       "2023-01-04": 23,
       "2022-12-29": 17,
@@ -305,8 +305,7 @@
       "2022-10-12": 142,
       "2022-10-11": 76,
       "2022-10-10": 100,
-      "2022-10-09": 127,
-      "2022-10-08": 26
+      "2022-10-09": 127
     }
   }
 ]
