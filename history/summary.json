@@ -4,18 +4,19 @@
     "url": "$BOT1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "96.96%",
+    "uptimeDay": "96.95%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "99.00%",
     "uptimeYear": "99.42%",
     "time": 2165,
     "timeDay": 4408,
     "timeWeek": 1668,
-    "timeMonth": 1901,
+    "timeMonth": 1921,
     "timeYear": 2224,
     "dailyMinutesDown": {
+      "2023-01-23": 0,
       "2023-01-22": 44,
       "2023-01-20": 25,
       "2023-01-18": 15,
@@ -63,8 +64,7 @@
       "2022-10-21": 72,
       "2022-10-20": 227,
       "2022-10-19": 260,
-      "2022-10-18": 251,
-      "2022-10-17": 18
+      "2022-10-18": 251
     }
   },
   {
@@ -81,7 +81,7 @@
     "time": 2053,
     "timeDay": 1699,
     "timeWeek": 2047,
-    "timeMonth": 2388,
+    "timeMonth": 2413,
     "timeYear": 2111,
     "dailyMinutesDown": {
       "2023-01-22": 19,
@@ -144,7 +144,7 @@
     "time": 2164,
     "timeDay": 2836,
     "timeWeek": 1858,
-    "timeMonth": 1942,
+    "timeMonth": 1963,
     "timeYear": 2344,
     "dailyMinutesDown": {
       "2023-01-22": 19,
@@ -200,17 +200,16 @@
     "slug": "happy-vibes-bot-4",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "88.53%",
-    "uptimeMonth": "89.46%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "88.88%",
+    "uptimeMonth": "89.48%",
     "uptimeYear": "98.57%",
     "time": 1984,
     "timeDay": 7694,
     "timeWeek": 2366,
-    "timeMonth": 1863,
+    "timeMonth": 1883,
     "timeYear": 2083,
     "dailyMinutesDown": {
-      "2023-01-23": 10,
       "2023-01-22": 18,
       "2023-01-21": 20,
       "2023-01-20": 40,
@@ -255,7 +254,7 @@
       "2022-10-16": 70,
       "2022-10-15": 89,
       "2022-10-14": 2,
-      "2022-10-13": 19
+      "2022-10-13": 42
     }
   },
   {
@@ -272,7 +271,7 @@
     "time": 2234,
     "timeDay": 3768,
     "timeWeek": 1756,
-    "timeMonth": 1546,
+    "timeMonth": 1543,
     "timeYear": 2313,
     "dailyMinutesDown": {
       "2023-01-22": 18,
