@@ -4,18 +4,19 @@
     "url": "$BOT1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.46%",
-    "time": 2241,
+    "uptimeYear": "99.47%",
+    "time": 2243,
     "timeDay": 202,
     "timeWeek": 2603,
-    "timeMonth": 1029,
-    "timeYear": 2215,
+    "timeMonth": 899,
+    "timeYear": 2189,
     "dailyMinutesDown": {
+      "2023-03-20": 0,
       "2023-02-19": 16,
       "2023-02-13": 18,
       "2023-02-10": 23,
@@ -70,7 +71,7 @@
       "2022-10-22": 67,
       "2022-10-21": 72,
       "2022-10-20": 227,
-      "2022-10-19": 74
+      "2022-10-19": 23
     }
   },
   {
@@ -78,18 +79,19 @@
     "url": "$BOT2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.40%",
-    "time": 2057,
+    "time": 2059,
     "timeDay": 257,
-    "timeWeek": 362,
-    "timeMonth": 347,
-    "timeYear": 1995,
+    "timeWeek": 354,
+    "timeMonth": 341,
+    "timeYear": 1974,
     "dailyMinutesDown": {
+      "2023-03-20": 0,
       "2023-03-13": 18,
       "2023-03-06": 18,
       "2023-02-23": 25,
@@ -137,8 +139,7 @@
       "2022-10-22": 107,
       "2022-10-21": 43,
       "2022-10-20": 214,
-      "2022-10-19": 107,
-      "2022-10-18": 23
+      "2022-10-19": 107
     }
   },
   {
@@ -146,17 +147,17 @@
     "url": "$BOT3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "95.87%",
+    "uptimeDay": "95.84%",
     "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.45%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.46%",
     "time": 2301,
     "timeDay": 317,
     "timeWeek": 366,
-    "timeMonth": 771,
-    "timeYear": 2327,
+    "timeMonth": 779,
+    "timeYear": 2326,
     "dailyMinutesDown": {
       "2023-03-20": 57,
       "2023-03-19": 3,
@@ -208,7 +209,7 @@
       "2022-10-23": 139,
       "2022-10-21": 107,
       "2022-10-20": 230,
-      "2022-10-19": 63
+      "2022-10-19": 26
     }
   },
   {
@@ -216,18 +217,19 @@
     "url": "$BOT4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "98.60%",
-    "time": 2091,
+    "time": 2092,
     "timeDay": 223,
     "timeWeek": 423,
-    "timeMonth": 903,
-    "timeYear": 2062,
+    "timeMonth": 351,
+    "timeYear": 2042,
     "dailyMinutesDown": {
+      "2023-03-20": 0,
       "2023-03-06": 18,
       "2023-02-20": 16,
       "2023-02-13": 25,
@@ -276,7 +278,7 @@
       "2022-10-21": 40,
       "2022-10-19": 213,
       "2022-10-18": 149,
-      "2022-10-17": 116
+      "2022-10-17": 82
     }
   },
   {
@@ -284,18 +286,19 @@
     "url": "$BOT5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "98.82%",
-    "time": 2277,
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "98.83%",
+    "time": 2273,
     "timeDay": 706,
     "timeWeek": 433,
-    "timeMonth": 323,
-    "timeYear": 2220,
+    "timeMonth": 321,
+    "timeYear": 2195,
     "dailyMinutesDown": {
+      "2023-03-20": 1,
       "2023-03-06": 18,
       "2023-02-23": 24,
       "2023-02-20": 16,
@@ -350,7 +353,7 @@
       "2022-10-20": 58,
       "2022-10-19": 71,
       "2022-10-18": 74,
-      "2022-10-17": 53
+      "2022-10-17": 20
     }
   }
 ]
