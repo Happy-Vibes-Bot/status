@@ -4,18 +4,19 @@
     "url": "$BOT1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.46%",
-    "time": 2234,
+    "uptimeYear": "99.47%",
+    "time": 2236,
     "timeDay": 326,
     "timeWeek": 693,
     "timeMonth": 932,
-    "timeYear": 2102,
+    "timeYear": 2095,
     "dailyMinutesDown": {
+      "2023-03-28": 0,
       "2023-03-23": 68,
       "2023-02-19": 16,
       "2023-02-13": 18,
@@ -70,7 +71,7 @@
       "2022-10-23": 30,
       "2022-10-22": 67,
       "2022-10-21": 72,
-      "2022-10-20": 190
+      "2022-10-20": 149
     }
   },
   {
@@ -78,18 +79,19 @@
     "url": "$BOT2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "99.40%",
-    "time": 1976,
+    "uptimeYear": "99.41%",
+    "time": 1977,
     "timeDay": 434,
     "timeWeek": 1178,
     "timeMonth": 577,
-    "timeYear": 1935,
+    "timeYear": 1910,
     "dailyMinutesDown": {
+      "2023-03-28": 1,
       "2023-03-23": 63,
       "2023-03-13": 18,
       "2023-03-06": 18,
@@ -137,8 +139,7 @@
       "2022-10-23": 142,
       "2022-10-22": 107,
       "2022-10-21": 43,
-      "2022-10-20": 214,
-      "2022-10-19": 50
+      "2022-10-20": 214
     }
   },
   {
@@ -146,18 +147,19 @@
     "url": "$BOT3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-3",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.46%",
+    "uptimeYear": "99.48%",
     "time": 2329,
     "timeDay": 514,
     "timeWeek": 3561,
     "timeMonth": 1671,
-    "timeYear": 2266,
+    "timeYear": 2262,
     "dailyMinutesDown": {
+      "2023-03-28": 1,
       "2023-03-23": 54,
       "2023-03-20": 57,
       "2023-03-19": 3,
@@ -208,7 +210,7 @@
       "2022-10-24": 43,
       "2022-10-23": 139,
       "2022-10-21": 107,
-      "2022-10-20": 226
+      "2022-10-20": 128
     }
   },
   {
@@ -216,18 +218,19 @@
     "url": "$BOT4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "98.60%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "98.61%",
     "time": 2093,
     "timeDay": 683,
     "timeWeek": 2581,
     "timeMonth": 1085,
-    "timeYear": 2006,
+    "timeYear": 2008,
     "dailyMinutesDown": {
+      "2023-03-28": 1,
       "2023-03-23": 67,
       "2023-03-06": 18,
       "2023-02-20": 16,
@@ -276,8 +279,7 @@
       "2022-10-22": 36,
       "2022-10-21": 40,
       "2022-10-19": 213,
-      "2022-10-18": 149,
-      "2022-10-17": 8
+      "2022-10-18": 106
     }
   },
   {
@@ -285,18 +287,19 @@
     "url": "$BOT5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "98.82%",
-    "time": 2192,
+    "time": 2194,
     "timeDay": 326,
     "timeWeek": 501,
     "timeMonth": 391,
-    "timeYear": 2124,
+    "timeYear": 2095,
     "dailyMinutesDown": {
+      "2023-03-28": 1,
       "2023-03-23": 63,
       "2023-03-06": 18,
       "2023-02-23": 24,
@@ -351,7 +354,7 @@
       "2022-10-21": 65,
       "2022-10-20": 58,
       "2022-10-19": 71,
-      "2022-10-18": 74
+      "2022-10-18": 58
     }
   }
 ]
