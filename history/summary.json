@@ -14,7 +14,7 @@
     "timeDay": 170,
     "timeWeek": 1939,
     "timeMonth": 1292,
-    "timeYear": 2006,
+    "timeYear": 2003,
     "dailyMinutesDown": {
       "2023-03-29": 98,
       "2023-03-28": 41,
@@ -90,7 +90,7 @@
     "timeDay": 483,
     "timeWeek": 4175,
     "timeMonth": 1787,
-    "timeYear": 1836,
+    "timeYear": 1833,
     "dailyMinutesDown": {
       "2023-03-30": 27,
       "2023-03-29": 18,
@@ -151,9 +151,9 @@
     "slug": "happy-vibes-bot-3",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.47%",
     "time": 2312,
     "timeDay": 4216,
@@ -161,7 +161,6 @@
     "timeMonth": 2318,
     "timeYear": 2225,
     "dailyMinutesDown": {
-      "2023-04-01": 7,
       "2023-03-29": 18,
       "2023-03-28": 69,
       "2023-03-23": 54,
@@ -214,7 +213,7 @@
       "2022-10-24": 43,
       "2022-10-23": 139,
       "2022-10-21": 107,
-      "2022-10-20": 47
+      "2022-10-20": 65
     }
   },
   {
@@ -232,7 +231,7 @@
     "timeDay": 348,
     "timeWeek": 1993,
     "timeMonth": 1474,
-    "timeYear": 1967,
+    "timeYear": 1958,
     "dailyMinutesDown": {
       "2023-03-30": 16,
       "2023-03-29": 18,
@@ -303,7 +302,7 @@
     "timeDay": 371,
     "timeWeek": 488,
     "timeMonth": 422,
-    "timeYear": 1964,
+    "timeYear": 1962,
     "dailyMinutesDown": {
       "2023-03-29": 27,
       "2023-03-28": 49,
