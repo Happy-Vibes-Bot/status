@@ -221,18 +221,19 @@
     "url": "$BOT4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "98.61%",
-    "time": 2038,
+    "time": 2040,
     "timeDay": 275,
     "timeWeek": 308,
     "timeMonth": 2768,
     "timeYear": 2058,
     "dailyMinutesDown": {
+      "2023-04-18": 1,
       "2023-04-13": 23,
       "2023-04-07": 240,
       "2023-04-03": 51,
@@ -283,8 +284,7 @@
       "2022-10-26": 54,
       "2022-10-25": 82,
       "2022-10-24": 133,
-      "2022-10-23": 73,
-      "2022-10-22": 19
+      "2022-10-23": 73
     }
   },
   {
