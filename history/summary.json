@@ -4,18 +4,19 @@
     "url": "$BOT1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "98.17%",
     "uptimeYear": "99.40%",
-    "time": 2083,
+    "time": 2084,
     "timeDay": 425,
     "timeWeek": 1077,
     "timeMonth": 2153,
-    "timeYear": 2001,
+    "timeYear": 2003,
     "dailyMinutesDown": {
+      "2023-04-26": 0,
       "2023-04-25": 78,
       "2023-04-21": 102,
       "2023-04-07": 345,
@@ -71,7 +72,7 @@
       "2022-10-28": 47,
       "2022-10-27": 90,
       "2022-10-26": 145,
-      "2022-10-25": 76
+      "2022-10-25": 58
     }
   },
   {
@@ -89,7 +90,7 @@
     "timeDay": 478,
     "timeWeek": 2496,
     "timeMonth": 3580,
-    "timeYear": 1904,
+    "timeYear": 1892,
     "dailyMinutesDown": {
       "2023-04-20": 54,
       "2023-04-18": 16,
@@ -224,10 +225,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-4",
     "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.02%",
+    "uptime": "99.18%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "98.61%",
     "time": 2065,
     "timeDay": 378,
@@ -235,7 +236,6 @@
     "timeMonth": 3578,
     "timeYear": 2132,
     "dailyMinutesDown": {
-      "2023-04-26": 8,
       "2023-04-20": 17,
       "2023-04-13": 23,
       "2023-04-07": 240,
@@ -287,7 +287,7 @@
       "2022-10-26": 54,
       "2022-10-25": 82,
       "2022-10-24": 133,
-      "2022-10-23": 57
+      "2022-10-23": 73
     }
   },
   {
@@ -301,11 +301,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "98.79%",
-    "time": 2057,
+    "time": 1940,
     "timeDay": 333,
     "timeWeek": 342,
     "timeMonth": 1845,
-    "timeYear": 1931,
+    "timeYear": 1918,
     "dailyMinutesDown": {
       "2023-04-26": 15,
       "2023-04-25": 25,
