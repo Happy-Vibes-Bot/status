@@ -6,9 +6,9 @@
     "slug": "happy-vibes-bot-1",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.42%",
     "time": 1937,
     "timeDay": 474,
@@ -16,7 +16,6 @@
     "timeMonth": 804,
     "timeYear": 1943,
     "dailyMinutesDown": {
-      "2023-05-15": 9,
       "2023-05-13": 27,
       "2023-05-10": 54,
       "2023-05-09": 20,
@@ -74,7 +73,7 @@
       "2022-10-30": 35,
       "2022-10-29": 18,
       "2022-10-28": 47,
-      "2022-10-27": 64
+      "2022-10-27": 90
     }
   },
   {
@@ -88,11 +87,11 @@
     "uptimeWeek": "98.92%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.46%",
-    "time": 1873,
+    "time": 1865,
     "timeDay": 208,
     "timeWeek": 1842,
     "timeMonth": 1349,
-    "timeYear": 1859,
+    "timeYear": 1861,
     "dailyMinutesDown": {
       "2023-05-13": 20,
       "2023-05-10": 69,
@@ -239,11 +238,11 @@
     "uptimeWeek": "98.36%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "98.60%",
-    "time": 2020,
+    "time": 2062,
     "timeDay": 439,
     "timeWeek": 976,
     "timeMonth": 2126,
-    "timeYear": 2080,
+    "timeYear": 2082,
     "dailyMinutesDown": {
       "2023-05-13": 27,
       "2023-05-11": 53,
@@ -310,18 +309,19 @@
     "url": "$BOT5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.81%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.80%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "98.82%",
-    "time": 1985,
-    "timeDay": 235,
-    "timeWeek": 3436,
-    "timeMonth": 1823,
-    "timeYear": 1899,
+    "time": 2005,
+    "timeDay": 12240,
+    "timeWeek": 4634,
+    "timeMonth": 2168,
+    "timeYear": 1921,
     "dailyMinutesDown": {
+      "2023-05-15": 1,
       "2023-05-13": 34,
       "2023-05-10": 47,
       "2023-05-09": 20,
@@ -384,7 +384,7 @@
       "2022-10-27": 129,
       "2022-10-26": 164,
       "2022-10-25": 158,
-      "2022-10-24": 90
+      "2022-10-24": 64
     }
   }
 ]
