@@ -6,17 +6,16 @@
     "slug": "happy-vibes-bot-1",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "99.40%",
     "time": 1964,
     "timeDay": 10502,
     "timeWeek": 3925,
-    "timeMonth": 1873,
-    "timeYear": 1958,
+    "timeMonth": 1894,
+    "timeYear": 1959,
     "dailyMinutesDown": {
-      "2023-05-28": 13,
       "2023-05-25": 16,
       "2023-05-24": 62,
       "2023-05-18": 126,
@@ -74,7 +73,8 @@
       "2022-11-02": 19,
       "2022-11-01": 41,
       "2022-10-31": 61,
-      "2022-10-30": 35
+      "2022-10-30": 35,
+      "2022-10-29": 18
     }
   },
   {
@@ -82,18 +82,19 @@
     "url": "$BOT2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.46%",
-    "time": 1943,
-    "timeDay": 220,
-    "timeWeek": 870,
-    "timeMonth": 2705,
-    "timeYear": 1983,
+    "time": 1967,
+    "timeDay": 13184,
+    "timeWeek": 2450,
+    "timeMonth": 3017,
+    "timeYear": 2009,
     "dailyMinutesDown": {
+      "2023-05-28": 0,
       "2023-05-24": 47,
       "2023-05-18": 64,
       "2023-05-13": 20,
@@ -149,7 +150,7 @@
       "2022-11-01": 100,
       "2022-10-31": 169,
       "2022-10-30": 89,
-      "2022-10-27": 35
+      "2022-10-27": 19
     }
   },
   {
@@ -167,7 +168,7 @@
     "timeDay": 202,
     "timeWeek": 902,
     "timeMonth": 1233,
-    "timeYear": 1981,
+    "timeYear": 1984,
     "dailyMinutesDown": {
       "2023-05-24": 34,
       "2023-05-18": 129,
@@ -322,7 +323,7 @@
     "timeDay": 211,
     "timeWeek": 6101,
     "timeMonth": 4253,
-    "timeYear": 2012,
+    "timeYear": 2014,
     "dailyMinutesDown": {
       "2023-05-24": 34,
       "2023-05-18": 108,
