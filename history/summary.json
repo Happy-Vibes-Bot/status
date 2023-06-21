@@ -82,19 +82,19 @@
     "url": "$BOT2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.46%",
-    "time": 2045,
-    "timeDay": 11451,
-    "timeWeek": 4971,
-    "timeMonth": 3552,
-    "timeYear": 1986,
+    "time": 2067,
+    "timeDay": 13396,
+    "timeWeek": 6367,
+    "timeMonth": 3936,
+    "timeYear": 2009,
     "dailyMinutesDown": {
-      "2023-06-21": 18,
+      "2023-06-21": 19,
       "2023-05-24": 47,
       "2023-05-18": 64,
       "2023-05-13": 20,
@@ -149,8 +149,7 @@
       "2022-11-02": 18,
       "2022-11-01": 100,
       "2022-10-31": 169,
-      "2022-10-30": 89,
-      "2022-10-27": 19
+      "2022-10-30": 89
     }
   },
   {
@@ -162,7 +161,7 @@
     "uptime": "97.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.76%",
+    "uptimeMonth": "43.74%",
     "uptimeYear": "94.75%",
     "time": 2085,
     "timeDay": 244,
@@ -170,7 +169,7 @@
     "timeMonth": 2349,
     "timeYear": 1997,
     "dailyMinutesDown": {
-      "2023-06-21": 567,
+      "2023-06-21": 575,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
@@ -256,9 +255,9 @@
     "slug": "happy-vibes-bot-4",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "98.61%",
     "time": 2134,
     "timeDay": 16708,
@@ -266,7 +265,6 @@
     "timeMonth": 3744,
     "timeYear": 2019,
     "dailyMinutesDown": {
-      "2023-06-21": 6,
       "2023-06-02": 15,
       "2023-05-26": 17,
       "2023-05-24": 34,
@@ -325,7 +323,7 @@
       "2022-11-01": 73,
       "2022-10-31": 113,
       "2022-10-30": 17,
-      "2022-10-27": 21
+      "2022-10-27": 48
     }
   },
   {
