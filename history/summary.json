@@ -6,9 +6,9 @@
     "slug": "happy-vibes-bot-1",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.40%",
     "time": 2032,
     "timeDay": 11076,
@@ -16,7 +16,6 @@
     "timeMonth": 3548,
     "timeYear": 1889,
     "dailyMinutesDown": {
-      "2023-07-02": 7,
       "2023-07-01": 47,
       "2023-06-28": 16,
       "2023-06-27": 67,
@@ -76,7 +75,7 @@
       "2022-11-04": 34,
       "2022-11-03": 63,
       "2022-11-02": 19,
-      "2022-11-01": 16
+      "2022-11-01": 41
     }
   },
   {
@@ -162,18 +161,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-3",
     "status": "down",
-    "uptime": "95.61%",
+    "uptime": "95.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.36%",
-    "uptimeYear": "91.71%",
+    "uptimeMonth": "7.00%",
+    "uptimeYear": "91.68%",
     "time": 2058,
     "timeDay": 132,
     "timeWeek": 236,
     "timeMonth": 1045,
     "timeYear": 1937,
     "dailyMinutesDown": {
-      "2023-07-02": 708,
+      "2023-07-02": 863,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -271,12 +270,12 @@
     "status": "up",
     "uptime": "99.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.61%",
     "time": 2201,
     "timeDay": 4102,
-    "timeWeek": 4875,
+    "timeWeek": 1600,
     "timeMonth": 5441,
     "timeYear": 2116,
     "dailyMinutesDown": {
@@ -347,19 +346,19 @@
     "url": "$BOT5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "99.25%",
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "99.24%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "98.85%",
-    "time": 2036,
+    "uptimeYear": "98.87%",
+    "time": 2038,
     "timeDay": 8120,
     "timeWeek": 6279,
     "timeMonth": 2512,
     "timeYear": 1929,
     "dailyMinutesDown": {
-      "2023-07-02": 38,
+      "2023-07-02": 39,
       "2023-06-30": 16,
       "2023-06-29": 22,
       "2023-06-08": 16,
@@ -425,7 +424,7 @@
       "2022-11-02": 83,
       "2022-11-01": 53,
       "2022-10-31": 70,
-      "2022-10-27": 129
+      "2022-10-27": 30
     }
   }
 ]
