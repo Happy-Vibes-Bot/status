@@ -14,7 +14,7 @@
     "timeDay": 12921,
     "timeWeek": 6679,
     "timeMonth": 4966,
-    "timeYear": 1984,
+    "timeYear": 1986,
     "dailyMinutesDown": {
       "2023-07-06": 30,
       "2023-07-05": 33,
@@ -85,18 +85,19 @@
     "url": "$BOT2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.93%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "99.43%",
-    "time": 2217,
-    "timeDay": 11784,
-    "timeWeek": 4149,
-    "timeMonth": 4888,
-    "timeYear": 2157,
+    "time": 2233,
+    "timeDay": 14396,
+    "timeWeek": 4722,
+    "timeMonth": 5111,
+    "timeYear": 2176,
     "dailyMinutesDown": {
+      "2023-07-06": 0,
       "2023-07-05": 171,
       "2023-07-04": 37,
       "2023-07-03": 70,
@@ -156,8 +157,7 @@
       "2022-11-08": 128,
       "2022-11-07": 52,
       "2022-11-03": 33,
-      "2022-11-02": 18,
-      "2022-11-01": 21
+      "2022-11-02": 18
     }
   },
   {
@@ -166,18 +166,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-3",
     "status": "down",
-    "uptime": "95.02%",
+    "uptime": "95.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "90.53%",
+    "uptimeYear": "90.52%",
     "time": 2039,
     "timeDay": 167,
     "timeWeek": 200,
     "timeMonth": 1059,
     "timeYear": 1936,
     "dailyMinutesDown": {
-      "2023-07-06": 1134,
+      "2023-07-06": 1208,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -358,9 +358,9 @@
     "slug": "happy-vibes-bot-5",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "95.96%",
-    "uptimeWeek": "95.14%",
-    "uptimeMonth": "98.80%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "98.81%",
     "uptimeYear": "98.81%",
     "time": 2162,
     "timeDay": 7428,
@@ -368,7 +368,7 @@
     "timeMonth": 4997,
     "timeYear": 2093,
     "dailyMinutesDown": {
-      "2023-07-06": 58,
+      "2023-07-06": 50,
       "2023-07-05": 54,
       "2023-07-04": 324,
       "2023-07-02": 38,
@@ -435,7 +435,7 @@
       "2022-11-08": 115,
       "2022-11-03": 186,
       "2022-11-02": 83,
-      "2022-11-01": 25
+      "2022-11-01": 53
     }
   }
 ]
