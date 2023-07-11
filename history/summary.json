@@ -4,9 +4,9 @@
     "url": "$BOT1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.39%",
@@ -16,6 +16,7 @@
     "timeMonth": 4588,
     "timeYear": 1987,
     "dailyMinutesDown": {
+      "2023-07-11": 0,
       "2023-07-06": 30,
       "2023-07-05": 33,
       "2023-07-03": 70,
@@ -76,8 +77,7 @@
       "2022-11-08": 61,
       "2022-11-07": 43,
       "2022-11-06": 17,
-      "2022-11-04": 34,
-      "2022-11-03": 19
+      "2022-11-04": 34
     }
   },
   {
@@ -166,18 +166,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-3",
     "status": "down",
-    "uptime": "94.34%",
+    "uptime": "94.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "89.17%",
+    "uptimeYear": "89.14%",
     "time": 1982,
     "timeDay": 373,
     "timeWeek": 247,
     "timeMonth": 798,
     "timeYear": 1946,
     "dailyMinutesDown": {
-      "2023-07-11": 1080,
+      "2023-07-11": 1229,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
@@ -363,17 +363,17 @@
     "slug": "happy-vibes-bot-5",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "96.53%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "98.82%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "98.81%",
     "time": 2212,
     "timeDay": 332,
     "timeWeek": 8347,
     "timeMonth": 5760,
     "timeYear": 2170,
     "dailyMinutesDown": {
-      "2023-07-11": 29,
+      "2023-07-11": 22,
       "2023-07-08": 23,
       "2023-07-06": 50,
       "2023-07-05": 54,
@@ -440,7 +440,9 @@
       "2022-11-10": 41,
       "2022-11-09": 63,
       "2022-11-08": 115,
-      "2022-11-03": 186
+      "2022-11-03": 186,
+      "2022-11-02": 83,
+      "2022-11-01": 1
     }
   }
 ]
