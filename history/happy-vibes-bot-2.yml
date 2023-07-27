@@ -1,7 +1,7 @@
 url: $BOT2
-status: down
-code: 502
-responseTime: 212
-lastUpdated: 2023-07-27T07:35:27.167Z
+status: up
+code: 200
+responseTime: 24181
+lastUpdated: 2023-07-27T07:43:22.254Z
 startTime: Wed Aug 11 2021 17:48:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
