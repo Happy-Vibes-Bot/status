@@ -6,9 +6,9 @@
     "slug": "happy-vibes-bot-1",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "98.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "99.35%",
     "time": 2188,
     "timeDay": 4151,
@@ -16,7 +16,6 @@
     "timeMonth": 5763,
     "timeYear": 2154,
     "dailyMinutesDown": {
-      "2023-07-28": 7,
       "2023-07-23": 54,
       "2023-07-13": 43,
       "2023-07-12": 179,
@@ -78,7 +77,7 @@
       "2022-11-10": 79,
       "2022-11-09": 55,
       "2022-11-08": 61,
-      "2022-11-07": 19
+      "2022-11-07": 43
     }
   },
   {
@@ -86,18 +85,19 @@
     "url": "$BOT2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-2",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "99.42%",
-    "time": 2348,
+    "time": 2350,
     "timeDay": 369,
     "timeWeek": 6609,
     "timeMonth": 4773,
     "timeYear": 2303,
     "dailyMinutesDown": {
+      "2023-07-28": 0,
       "2023-07-25": 17,
       "2023-07-22": 26,
       "2023-07-21": 17,
@@ -159,7 +159,7 @@
       "2022-11-12": 26,
       "2022-11-11": 54,
       "2022-11-09": 33,
-      "2022-11-08": 128
+      "2022-11-08": 90
     }
   },
   {
@@ -168,18 +168,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-3",
     "status": "down",
-    "uptime": "92.14%",
+    "uptime": "92.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "84.58%",
+    "uptimeYear": "84.55%",
     "time": 1938,
     "timeDay": 271,
     "timeWeek": 301,
     "timeMonth": 258,
     "timeYear": 1896,
     "dailyMinutesDown": {
-      "2023-07-28": 703,
+      "2023-07-28": 897,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
