@@ -88,7 +88,7 @@
     "slug": "happy-vibes-bot-2",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "98.22%",
+    "uptimeDay": "99.77%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.42%",
@@ -180,7 +180,7 @@
     "timeMonth": 262,
     "timeYear": 1891,
     "dailyMinutesDown": {
-      "2023-08-02": 138,
+      "2023-08-02": 161,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
@@ -306,17 +306,17 @@
     "url": "$BOT4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "97.70%",
+    "uptimeDay": "97.68%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "98.59%",
-    "time": 2392,
-    "timeDay": 5479,
-    "timeWeek": 4483,
-    "timeMonth": 5867,
-    "timeYear": 2466,
+    "time": 2395,
+    "timeDay": 6657,
+    "timeWeek": 4922,
+    "timeMonth": 5921,
+    "timeYear": 2474,
     "dailyMinutesDown": {
       "2023-08-02": 33,
       "2023-07-31": 32,
@@ -381,8 +381,7 @@
       "2022-11-14": 132,
       "2022-11-11": 36,
       "2022-11-10": 86,
-      "2022-11-09": 16,
-      "2022-11-08": 19
+      "2022-11-09": 16
     }
   },
   {
