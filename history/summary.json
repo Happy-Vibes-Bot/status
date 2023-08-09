@@ -176,14 +176,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.30%",
+    "uptimeYear": "81.29%",
     "time": 1907,
     "timeDay": 5220,
     "timeWeek": 936,
     "timeMonth": 424,
     "timeYear": 1887,
     "dailyMinutesDown": {
-      "2023-08-09": 693,
+      "2023-08-09": 716,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
@@ -318,9 +318,9 @@
     "slug": "happy-vibes-bot-4",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "98.59%",
     "time": 2568,
     "timeDay": 9177,
@@ -328,7 +328,6 @@
     "timeMonth": 7026,
     "timeYear": 2558,
     "dailyMinutesDown": {
-      "2023-08-09": 8,
       "2023-08-08": 22,
       "2023-08-02": 33,
       "2023-07-31": 32,
@@ -392,7 +391,8 @@
       "2022-11-15": 47,
       "2022-11-14": 132,
       "2022-11-11": 36,
-      "2022-11-10": 86
+      "2022-11-10": 86,
+      "2022-11-09": 16
     }
   },
   {
@@ -400,18 +400,19 @@
     "url": "$BOT5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.35%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "98.85%",
-    "time": 2318,
-    "timeDay": 7020,
-    "timeWeek": 2640,
-    "timeMonth": 4790,
-    "timeYear": 2325,
+    "time": 2326,
+    "timeDay": 7658,
+    "timeWeek": 3199,
+    "timeMonth": 4866,
+    "timeYear": 2333,
     "dailyMinutesDown": {
+      "2023-08-09": 0,
       "2023-08-03": 29,
       "2023-07-31": 45,
       "2023-07-25": 16,
@@ -482,8 +483,7 @@
       "2022-11-15": 36,
       "2022-11-14": 15,
       "2022-11-13": 19,
-      "2022-11-11": 22,
-      "2022-11-10": 16
+      "2022-11-11": 22
     }
   }
 ]
