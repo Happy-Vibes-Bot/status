@@ -6,17 +6,17 @@
     "slug": "happy-vibes-bot-1",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.35%",
     "time": 2436,
     "timeDay": 316,
     "timeWeek": 5110,
     "timeMonth": 3634,
     "timeYear": 2345,
     "dailyMinutesDown": {
-      "2023-09-25": 27,
+      "2023-09-25": 20,
       "2023-09-15": 44,
       "2023-09-12": 20,
       "2023-09-09": 15,
@@ -86,7 +86,7 @@
       "2022-11-22": 173,
       "2022-11-21": 18,
       "2022-11-19": 17,
-      "2022-11-18": 17
+      "2022-11-18": 32
     }
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 387,
     "timeWeek": 848,
     "timeMonth": 4209,
-    "timeYear": 2838,
+    "timeYear": 2841,
     "dailyMinutesDown": {
       "2023-09-22": 26,
       "2023-09-17": 15,
@@ -185,14 +185,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.51%",
+    "uptimeYear": "68.50%",
     "time": 1888,
     "timeDay": 347,
     "timeWeek": 2357,
     "timeMonth": 3409,
     "timeYear": 1553,
     "dailyMinutesDown": {
-      "2023-09-25": 218,
+      "2023-09-25": 262,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
@@ -372,18 +372,19 @@
     "url": "$BOT4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-4",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.14%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.13%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "98.61%",
-    "time": 2841,
+    "time": 2839,
     "timeDay": 409,
     "timeWeek": 7514,
     "timeMonth": 5518,
     "timeYear": 2808,
     "dailyMinutesDown": {
+      "2023-09-25": 1,
       "2023-09-23": 45,
       "2023-09-19": 42,
       "2023-09-18": 19,
@@ -450,7 +451,7 @@
       "2022-11-19": 133,
       "2022-11-18": 15,
       "2022-11-17": 285,
-      "2022-11-16": 53
+      "2022-11-16": 36
     }
   },
   {
