@@ -4,9 +4,9 @@
     "url": "$BOT1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-1",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.64%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.34%",
@@ -14,8 +14,9 @@
     "timeDay": 287,
     "timeWeek": 6069,
     "timeMonth": 4257,
-    "timeYear": 2497,
+    "timeYear": 2500,
     "dailyMinutesDown": {
+      "2023-10-08": 0,
       "2023-10-05": 110,
       "2023-10-03": 27,
       "2023-09-26": 16,
@@ -86,7 +87,7 @@
       "2022-12-13": 18,
       "2022-12-10": 21,
       "2022-11-23": 18,
-      "2022-11-22": 173
+      "2022-11-22": 136
     }
   },
   {
@@ -96,17 +97,16 @@
     "slug": "happy-vibes-bot-2",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.41%",
     "time": 2917,
     "timeDay": 320,
     "timeWeek": 6237,
     "timeMonth": 4013,
     "timeYear": 3039,
     "dailyMinutesDown": {
-      "2023-10-08": 8,
       "2023-10-05": 33,
       "2023-09-27": 35,
       "2023-09-22": 26,
@@ -175,7 +175,7 @@
       "2022-11-20": 53,
       "2022-11-19": 26,
       "2022-11-18": 16,
-      "2022-11-17": 148
+      "2022-11-17": 184
     }
   },
   {
@@ -184,18 +184,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-3",
     "status": "down",
-    "uptime": "83.71%",
+    "uptime": "83.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "64.84%",
+    "uptimeYear": "64.80%",
     "time": 1648,
     "timeDay": 5154,
     "timeWeek": 3721,
     "timeMonth": 3873,
-    "timeYear": 1660,
+    "timeYear": 1662,
     "dailyMinutesDown": {
-      "2023-10-08": 780,
+      "2023-10-08": 1031,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
