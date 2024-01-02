@@ -1,7 +1,7 @@
 url: $BOT5
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-02T19:50:22.722Z
+status: up
+code: 200
+responseTime: 155
+lastUpdated: 2024-01-02T19:57:20.847Z
 startTime: 2021-08-11T17:48:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
