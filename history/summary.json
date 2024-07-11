@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-1",
     "status": "down",
-    "uptime": "82.04%",
+    "uptime": "81.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "48.05%",
-    "time": 2535,
-    "timeDay": 163,
-    "timeWeek": 371,
-    "timeMonth": 442,
-    "timeYear": 2374,
+    "uptimeYear": "47.78%",
+    "time": 2536,
+    "timeDay": 827,
+    "timeWeek": 449,
+    "timeMonth": 463,
+    "timeYear": 2375,
     "dailyMinutesDown": {
-      "2024-07-10": 47,
+      "2024-07-11": 47,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -246,8 +247,7 @@
       "2023-07-30": 26,
       "2023-07-28": 15,
       "2023-07-23": 54,
-      "2023-07-13": 43,
-      "2023-07-12": 179
+      "2023-07-13": 43
     }
   },
   {
@@ -256,18 +256,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-2",
     "status": "down",
-    "uptime": "82.14%",
+    "uptime": "82.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "48.42%",
-    "time": 3114,
-    "timeDay": 244,
-    "timeWeek": 272,
-    "timeMonth": 329,
-    "timeYear": 2738,
+    "uptimeYear": "48.15%",
+    "time": 3106,
+    "timeDay": 421,
+    "timeWeek": 208,
+    "timeMonth": 338,
+    "timeYear": 2742,
     "dailyMinutesDown": {
-      "2024-07-10": 47,
+      "2024-07-11": 47,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -477,8 +478,7 @@
       "2023-08-01": 26,
       "2023-07-25": 17,
       "2023-07-22": 26,
-      "2023-07-21": 17,
-      "2023-07-12": 131
+      "2023-07-21": 17
     }
   },
   {
@@ -487,18 +487,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-3",
     "status": "down",
-    "uptime": "62.02%",
+    "uptime": "61.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1638,
-    "timeDay": 756,
-    "timeWeek": 261,
-    "timeMonth": 328,
+    "timeDay": 321,
+    "timeWeek": 278,
+    "timeMonth": 329,
     "timeYear": 1638,
     "dailyMinutesDown": {
-      "2024-07-10": 47,
+      "2024-07-11": 47,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -861,8 +862,7 @@
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
-      "2023-07-13": 1440,
-      "2023-07-12": 1440
+      "2023-07-13": 1440
     }
   },
   {
@@ -876,11 +876,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.08%",
-    "time": 3250,
-    "timeDay": 940,
-    "timeWeek": 846,
-    "timeMonth": 798,
-    "timeYear": 3127,
+    "time": 3252,
+    "timeDay": 1425,
+    "timeWeek": 877,
+    "timeMonth": 817,
+    "timeYear": 3129,
     "dailyMinutesDown": {
       "2024-02-07": 1366,
       "2024-02-06": 1440,
@@ -932,8 +932,7 @@
       "2023-07-22": 21,
       "2023-07-21": 20,
       "2023-07-17": 24,
-      "2023-07-13": 29,
-      "2023-07-12": 125
+      "2023-07-13": 29
     }
   },
   {
@@ -942,18 +941,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "happy-vibes-bot-5",
     "status": "down",
-    "uptime": "82.02%",
+    "uptime": "81.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "48.44%",
+    "uptimeYear": "48.17%",
     "time": 2914,
-    "timeDay": 197,
-    "timeWeek": 351,
-    "timeMonth": 308,
+    "timeDay": 318,
+    "timeWeek": 354,
+    "timeMonth": 313,
     "timeYear": 2411,
     "dailyMinutesDown": {
-      "2024-07-10": 47,
+      "2024-07-11": 47,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -1163,8 +1163,7 @@
       "2023-07-25": 16,
       "2023-07-24": 16,
       "2023-07-21": 15,
-      "2023-07-13": 18,
-      "2023-07-12": 125
+      "2023-07-13": 18
     }
   }
 ]
